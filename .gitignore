@@ -2,6 +2,7 @@
 *.bigqueryrc
 data/table_definition_files/*
 transformers/bq_make_tables.sh
+transformers/bq_remove_tables.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
