@@ -1,0 +1,965 @@
+school_name,school_code,subject,me_num,me_percent,e_num,e_percent,m_num,m_percent,pm_num,pm_percent,nm_num,nm_percent,num_of_students_included,part_rate_percent,avg_scaled_score,sgp,included_in_sgp,year,grade,student_group
+Abby Kelley Foster Charter Public (District) - Abby Kelley Foster Charter Public School,04450105,ELA,          33,29,           0,0,          33,29,          52,46,          27,24,         112,99,     486.0,          29.5,         111,2021,7,ALL
+Abby Kelley Foster Charter Public (District) - Abby Kelley Foster Charter Public School,04450105,MATH,          17,15,           1,1,          16,14,          65,58,          30,27,         112,99,     481.0,          29.9,         111,2021,7,ALL
+Abington - Abington Middle School,00010405,ELA,          73,50,          10,7,          63,43,          45,31,          27,19,         145,92,     495.4,          42.3,         134,2021,7,ALL
+Abington - Abington Middle School,00010405,MATH,          24,17,           3,2,          21,15,          84,59,          35,24,         143,91,     483.2,          28.3,         132,2021,7,ALL
+Academy Of the Pacific Rim Charter Public (District) - Academy Of the Pacific Rim Charter Public School,04120530,ELA,          22,31,           2,3,          20,28,          29,41,          20,28,          71,97,     486.0,          35.3,          69,2021,7,ALL
+Academy Of the Pacific Rim Charter Public (District) - Academy Of the Pacific Rim Charter Public School,04120530,MATH,           9,13,           0,0,           9,13,          40,58,          20,29,          69,95,     480.2,          35.7,          67,2021,7,ALL
+Acton-Boxborough - Raymond J Grey Junior High,06000405,ELA,         272,68,          43,11,         229,57,         108,27,          19,5,         399,98,     508.2,          44.2,         374,2021,7,ALL
+Acton-Boxborough - Raymond J Grey Junior High,06000405,MATH,         308,78,         104,26,         204,51,          77,19,          12,3,         397,97,     515.8,          66.1,         372,2021,7,ALL
+Acushnet - Albert F Ford Middle School,00030305,ELA,          33,34,           1,1,          32,33,          49,51,          14,15,          96,98,     491.8,          27.8,          90,2021,7,ALL
+Acushnet - Albert F Ford Middle School,00030305,MATH,          33,34,           1,1,          32,33,          54,56,           9,9,          96,98,     494.2,          32.1,          90,2021,7,ALL
+Advanced Math and Science Academy Charter (District) - Advanced Math and Science Academy Charter School,04300305,ELA,          71,60,           8,7,          63,53,          44,37,           3,3,         118,94,     504.0,          41.3,          99,2021,7,ALL
+Advanced Math and Science Academy Charter (District) - Advanced Math and Science Academy Charter School,04300305,MATH,          84,70,          22,18,          62,52,          33,28,           3,3,         120,96,     510.4,          48.4,         102,2021,7,ALL
+Agawam - Agawam Junior High,00050405,ELA,          69,31,           5,2,          64,29,         107,48,          46,21,         222,77,     488.9,          29.0,         213,2021,7,ALL
+Agawam - Agawam Junior High,00050405,MATH,          75,33,           7,3,          68,30,         119,53,          30,13,         224,77,     492.0,          30.2,         215,2021,7,ALL
+Alma del Mar Charter School (District) - Alma del Mar Charter School,04090205,ELA,          34,37,           3,3,          31,33,          35,38,          24,26,          93,99,     487.4,          32.0,          90,2021,7,ALL
+Alma del Mar Charter School (District) - Alma del Mar Charter School,04090205,MATH,          14,15,           0,0,          14,15,          48,52,          31,33,          93,99,     479.1,          20.1,          90,2021,7,ALL
+Amesbury - Amesbury Middle,00070013,ELA,          70,47,          11,7,          59,40,          64,43,          14,9,         148,97,     499.4,          38.9,         145,2021,7,ALL
+Amesbury - Amesbury Middle,00070013,MATH,          64,44,           8,5,          56,38,          70,48,          12,8,         146,96,     496.6,          46.0,         140,2021,7,ALL
+Amherst-Pelham - Amherst Regional Middle School,06050405,ELA,          44,76,           9,16,          35,60,           8,14,           6,10,          58,29,     511.9,          54.3,          51,2021,7,ALL
+Amherst-Pelham - Amherst Regional Middle School,06050405,MATH,          39,60,           7,11,          32,49,          19,29,           7,11,          65,31,     507.0,          42.0,          58,2021,7,ALL
+Andover - Andover West Middle,00090310,ELA,         103,56,          22,12,          81,44,          61,33,          19,10,         183,99,     502.6,          34.1,         151,2021,7,ALL
+Andover - Andover West Middle,00090310,MATH,         113,61,          43,23,          70,38,          55,30,          16,9,         184,100,     508.5,          41.8,         152,2021,7,ALL
+Andover - Doherty Middle,00090305,ELA,          82,60,          14,10,          68,50,          41,30,          14,10,         137,97,     503.8,          42.1,         129,2021,7,ALL
+Andover - Doherty Middle,00090305,MATH,          68,50,          16,12,          52,38,          57,42,          12,9,         137,97,     502.7,          40.1,         129,2021,7,ALL
+Andover - Wood Hill Middle School,00090350,ELA,          67,57,          13,11,          54,46,          43,37,           7,6,         117,100,     504.0,          33.0,         107,2021,7,ALL
+Andover - Wood Hill Middle School,00090350,MATH,          66,56,          21,18,          45,38,          44,38,           7,6,         117,100,     507.0,          36.8,         107,2021,7,ALL
+Argosy Collegiate Charter School (District) - Argosy Collegiate Charter School,35090305,ELA,          22,21,           1,1,          21,20,          50,49,          31,30,         103,96,     481.7,          23.2,          91,2021,7,ALL
+Argosy Collegiate Charter School (District) - Argosy Collegiate Charter School,35090305,MATH,          15,14,           1,1,          14,13,          65,63,          24,23,         104,97,     483.1,          30.9,          92,2021,7,ALL
+Arlington - Ottoson Middle,00100410,ELA,         308,76,          82,20,         226,56,          79,19,          20,5,         407,93,     512.8,          53.6,         385,2021,7,ALL
+Arlington - Ottoson Middle,00100410,MATH,         260,64,          62,15,         198,49,         128,32,          17,4,         405,93,     508.0,          45.6,         384,2021,7,ALL
+Ashburnham-Westminster - Overlook Middle School,06100305,ELA,         110,59,          11,6,          99,54,          62,34,          13,7,         185,99,     502.5,          55.3,         178,2021,7,ALL
+Ashburnham-Westminster - Overlook Middle School,06100305,MATH,          64,35,           0,0,          64,35,         109,59,          12,6,         185,99,     494.6,          45.3,         178,2021,7,ALL
+Ashland - Ashland Middle,00140405,ELA,         101,49,          17,8,          84,41,          78,38,          28,14,         207,96,     497.5,          42.9,         195,2021,7,ALL
+Ashland - Ashland Middle,00140405,MATH,         108,52,          26,13,          82,40,          73,35,          26,13,         207,96,     502.0,          56.3,         194,2021,7,ALL
+Athol-Royalston - Athol-Royalston Middle School,06150305,ELA,          24,22,           0,0,          24,22,          44,41,          40,37,         108,97,     480.0,          29.2,         100,2021,7,ALL
+Athol-Royalston - Athol-Royalston Middle School,06150305,MATH,          10,9,           0,0,          10,9,          74,68,          25,23,         109,98,     480.7,          36.6,         103,2021,7,ALL
+Atlantis Charter (District) - Atlantis Charter School,04910550,ELA,          42,39,           4,4,          38,35,          50,46,          17,16,         109,100,     492.3,          32.2,         104,2021,7,ALL
+Atlantis Charter (District) - Atlantis Charter School,04910550,MATH,          16,15,           0,0,          16,15,          66,61,          27,25,         109,100,     481.4,          19.8,         104,2021,7,ALL
+Attleboro - Cyril K. Brennan Middle School,00160315,ELA,          43,36,           5,4,          38,32,          51,43,          26,22,         120,91,     491.7,          32.2,         106,2021,7,ALL
+Attleboro - Cyril K. Brennan Middle School,00160315,MATH,          29,24,           7,6,          22,18,          68,57,          23,19,         120,91,     489.5,          30.7,         106,2021,7,ALL
+Attleboro - Robert J. Coelho Middle School,00160305,ELA,          69,43,           2,1,          67,42,          67,42,          24,15,         160,99,     493.7,          34.8,         153,2021,7,ALL
+Attleboro - Robert J. Coelho Middle School,00160305,MATH,          59,37,           5,3,          54,34,          83,52,          18,11,         160,99,     494.0,          32.8,         153,2021,7,ALL
+Attleboro - Wamsutta Middle School,00160320,ELA,          66,43,           6,4,          60,39,          69,45,          17,11,         152,98,     496.0,          31.6,         145,2021,7,ALL
+Attleboro - Wamsutta Middle School,00160320,MATH,          56,37,           9,6,          47,31,          81,53,          15,10,         152,98,     495.4,          37.4,         146,2021,7,ALL
+Auburn - Auburn Middle,00170305,ELA,         107,51,          29,14,          78,38,          76,37,          25,12,         208,97,     502.0,          37.0,         196,2021,7,ALL
+Auburn - Auburn Middle,00170305,MATH,          88,42,          11,5,          77,37,          97,47,          23,11,         208,97,     496.8,          33.2,         196,2021,7,ALL
+Avon - Avon Middle High School,00180510,ELA,          27,47,           3,5,          24,41,          25,43,           6,10,          58,98,     497.2,          40.7,          56,2021,7,ALL
+Avon - Avon Middle High School,00180510,MATH,          18,31,           3,5,          15,26,          36,62,           4,7,          58,98,     494.4,          49.0,          56,2021,7,ALL
+Ayer Shirley School District - Ayer Shirley Regional Middle School,06160305,ELA,          56,43,           8,6,          48,37,          61,47,          12,9,         129,95,     498.5,          40.3,         125,2021,7,ALL
+Ayer Shirley School District - Ayer Shirley Regional Middle School,06160305,MATH,          35,27,           4,3,          31,24,          78,60,          16,12,         129,95,     489.9,          28.0,         125,2021,7,ALL
+Barnstable - Barnstable Intermediate School,00200315,ELA,          74,28,           8,3,          66,25,         117,44,          73,28,         264,78,     486.1,          34.0,         234,2021,7,ALL
+Barnstable - Barnstable Intermediate School,00200315,MATH,          58,22,           6,2,          52,20,         145,55,          63,24,         266,78,     484.2,          31.8,         238,2021,7,ALL
+Baystate Academy Charter Public School (District) - Baystate Academy Charter Public School,35020405,ELA,          18,25,           1,1,          17,24,          32,44,          22,31,          72,95,     484.7,          30.6,          70,2021,7,ALL
+Baystate Academy Charter Public School (District) - Baystate Academy Charter Public School,35020405,MATH,           7,10,           0,0,           7,10,          36,51,          28,39,          71,93,     475.7,          15.3,          69,2021,7,ALL
+Bedford - John Glenn Middle,00230305,ELA,         132,71,          35,19,          97,52,          46,25,           7,4,         185,94,     511.8,          45.1,         180,2021,7,ALL
+Bedford - John Glenn Middle,00230305,MATH,         140,75,          43,23,          97,52,          42,23,           4,2,         186,95,     514.5,          53.4,         182,2021,7,ALL
+Belchertown - Jabish Middle School,00240025,ELA,          43,30,           1,1,          42,30,          74,52,          24,17,         141,86,     490.4,          35.6,         137,2021,7,ALL
+Belchertown - Jabish Middle School,00240025,MATH,          47,34,           4,3,          43,31,          75,54,          18,13,         140,85,     492.2,          48.9,         135,2021,7,ALL
+Bellingham - Bellingham Memorial School,00250315,ELA,          61,35,           3,2,          58,33,          91,52,          24,14,         176,98,     492.3,          33.9,         170,2021,7,ALL
+Bellingham - Bellingham Memorial School,00250315,MATH,          72,41,           9,5,          63,36,          84,48,          20,11,         176,98,     495.7,          49.7,         170,2021,7,ALL
+Belmont - Winthrop L Chenery Middle,00260305,ELA,         268,77,          57,16,         211,61,          62,18,          16,5,         346,96,     512.5,          40.6,         316,2021,7,ALL
+Belmont - Winthrop L Chenery Middle,00260305,MATH,         265,76,         120,35,         145,42,          69,20,          13,4,         347,96,     517.6,          48.3,         316,2021,7,ALL
+Benjamin Franklin Classical Charter Public (District) - Benjamin Franklin Classical Charter Public School,04470205,ELA,          34,65,           4,8,          30,58,          14,27,           4,8,          52,100,     504.9,          38.6,          50,2021,7,ALL
+Benjamin Franklin Classical Charter Public (District) - Benjamin Franklin Classical Charter Public School,04470205,MATH,          28,54,           9,17,          19,37,          22,42,           2,4,          52,100,     508.5,          41.4,          51,2021,7,ALL
+Berkley - Berkley Middle School,00270305,ELA,          60,56,          10,9,          50,47,          33,31,          14,13,         107,98,     499.5,          45.3,         105,2021,7,ALL
+Berkley - Berkley Middle School,00270305,MATH,          36,34,           5,5,          31,29,          60,56,          11,10,         107,98,     491.4,          27.7,         105,2021,7,ALL
+Berkshire Arts and Technology Charter Public (District) - Berkshire Arts and Technology Charter Public School,04140305,ELA,          39,63,           5,8,          34,55,          15,24,           8,13,          62,93,     503.5,          51.0,          53,2021,7,ALL
+Berkshire Arts and Technology Charter Public (District) - Berkshire Arts and Technology Charter Public School,04140305,MATH,          20,32,           2,3,          18,29,          31,49,          12,19,          63,94,     489.2,          33.3,          53,2021,7,ALL
+Berkshire Hills - W.E.B. Du Bois Regional Middle School,06180310,ELA,          31,38,           4,5,          27,33,          36,44,          14,17,          81,92,     492.7,          31.5,          71,2021,7,ALL
+Berkshire Hills - W.E.B. Du Bois Regional Middle School,06180310,MATH,          14,17,           1,1,          13,16,          48,59,          20,24,          82,93,     485.1,          24.4,          73,2021,7,ALL
+Berlin-Boylston - Tahanto Regional High,06200505,ELA,          60,71,          14,17,          46,55,          21,25,           3,4,          84,96,     511.2,          55.1,          82,2021,7,ALL
+Berlin-Boylston - Tahanto Regional High,06200505,MATH,          42,50,           3,4,          39,46,          40,48,           2,2,          84,96,     500.1,          36.2,          82,2021,7,ALL
+Beverly - Beverly Middle School,00300305,ELA,         159,44,          14,4,         145,40,         146,40,          59,16,         364,98,     494.4,          30.1,         348,2021,7,ALL
+Beverly - Beverly Middle School,00300305,MATH,          90,25,           4,1,          86,24,         209,58,          63,17,         362,98,     487.5,          24.9,         348,2021,7,ALL
+Billerica - Locke Middle,00310310,ELA,          93,54,          10,6,          83,48,          66,38,          14,8,         173,97,     500.6,          37.3,         167,2021,7,ALL
+Billerica - Locke Middle,00310310,MATH,          75,43,          13,8,          62,36,          82,47,          16,9,         173,97,     496.5,          36.6,         167,2021,7,ALL
+Billerica - Marshall Middle School,00310305,ELA,          90,45,           6,3,          84,42,          80,40,          29,15,         199,99,     495.7,          38.4,         193,2021,7,ALL
+Billerica - Marshall Middle School,00310305,MATH,          66,33,           8,4,          58,29,          97,49,          37,19,         200,99,     490.7,          32.7,         194,2021,7,ALL
+Blackstone-Millville - Frederick W. Hartnett Middle School,06220405,ELA,          48,37,           8,6,          40,31,          66,51,          16,12,         130,100,     495.6,          39.8,         123,2021,7,ALL
+Blackstone-Millville - Frederick W. Hartnett Middle School,06220405,MATH,          37,28,           4,3,          33,25,          66,51,          27,21,         130,100,     488.7,          32.3,         123,2021,7,ALL
+Boston - Boston Latin Academy,00350545,ELA,         172,75,          26,11,         146,64,          54,24,           3,1,         229,90,     510.9,          40.6,         200,2021,7,ALL
+Boston - Boston Latin Academy,00350545,MATH,         149,66,           9,4,         140,62,          77,34,           1,0,         227,89,     507.2,          32.3,         199,2021,7,ALL
+Boston - Boston Latin School,00350560,ELA,         292,88,          43,13,         249,75,          40,12,           1,0,         333,81,     516.3,          37.1,         256,2021,7,ALL
+Boston - Boston Latin School,00350560,MATH,         277,83,          70,21,         207,62,          55,17,           0,0,         332,81,     517.0,          29.5,         255,2021,7,ALL
+Boston - Boston Teachers Union K-8 Pilot,00350012,ELA,           2,18,           0,0,           2,18,           6,55,           3,27,          11,35,     478.9,,          11,2021,7,ALL
+Boston - Boston Teachers Union K-8 Pilot,00350012,MATH,           1,10,           0,0,           1,10,           6,60,           3,30,          10,32,     477.5,,          10,2021,7,ALL
+Boston - Condon K-8 School,00350146,ELA,          10,15,           0,0,          10,15,          27,40,          31,46,          68,89,     473.8,          33.6,          60,2021,7,ALL
+Boston - Condon K-8 School,00350146,MATH,           8,11,           0,0,           8,11,          40,56,          23,32,          71,92,     476.1,          34.3,          64,2021,7,ALL
+Boston - Curley K-8 School,00350020,ELA,           8,11,           0,0,           8,11,          25,35,          38,54,          71,83,     470.6,          22.9,          57,2021,7,ALL
+Boston - Curley K-8 School,00350020,MATH,           4,5,           0,0,           4,5,          27,36,          43,58,          74,87,     467.4,          27.0,          62,2021,7,ALL
+Boston - Dearborn 6-12 STEM Academy,00350074,ELA,          11,15,           0,0,          11,15,          20,28,          41,57,          72,83,     472.5,          25.6,          61,2021,7,ALL
+Boston - Dearborn 6-12 STEM Academy,00350074,MATH,           5,6,           0,0,           5,6,          42,53,          33,41,          80,92,     473.8,          30.3,          69,2021,7,ALL
+Boston - Edison K-8 School,00350375,ELA,          11,31,           0,0,          11,31,          13,37,          11,31,          35,100,     484.5,          56.2,          30,2021,7,ALL
+Boston - Edison K-8 School,00350375,MATH,           4,11,           0,0,           4,11,          18,51,          13,37,          35,100,     477.8,          52.8,          29,2021,7,ALL
+Boston - Edwards Middle School,00350430,ELA,           1,1,           0,0,           1,1,          25,33,          49,65,          75,94,     463.6,          19.1,          65,2021,7,ALL
+Boston - Edwards Middle School,00350430,MATH,           2,3,           0,0,           2,3,          32,43,          40,54,          74,93,     466.6,          24.8,          63,2021,7,ALL
+Boston - Eliot K-8 Innovation School,00350096,ELA,          13,38,           0,0,          13,38,          11,32,          10,29,          34,73,     486.4,          40.1,          28,2021,7,ALL
+Boston - Eliot K-8 Innovation School,00350096,MATH,           7,21,           0,0,           7,21,          16,47,          11,32,          34,75,     481.4,          33.6,          28,2021,7,ALL
+Boston - Frederick Pilot Middle School,00350383,ELA,           2,2,           0,0,           2,2,          32,36,          56,62,          90,69,     469.1,          27.7,          54,2021,7,ALL
+Boston - Frederick Pilot Middle School,00350383,MATH,           7,8,           0,0,           7,8,          38,41,          48,52,          93,69,     472.2,          27.6,          58,2021,7,ALL
+Boston - Gardner Pilot Academy,00350326,ELA,          10,29,           1,3,           9,26,          18,51,           7,20,          35,100,     488.2,          44.7,          34,2021,7,ALL
+Boston - Gardner Pilot Academy,00350326,MATH,           8,23,           0,0,           8,23,          17,49,          10,29,          35,97,     483.2,          41.9,          34,2021,7,ALL
+Boston - Greenwood Sarah K-8 School,00350308,ELA,           3,10,           0,0,           3,10,           8,26,          20,65,          31,94,     469.5,          39.8,          26,2021,7,ALL
+Boston - Greenwood Sarah K-8 School,00350308,MATH,           2,6,           0,0,           2,6,          13,41,          17,53,          32,97,     465.9,          38.9,          27,2021,7,ALL
+Boston - Haley Pilot School,00350077,ELA,           5,22,           0,0,           5,22,          11,48,           7,30,          23,96,     483.5,          30.6,          22,2021,7,ALL
+Boston - Haley Pilot School,00350077,MATH,           1,4,           0,0,           1,4,          10,43,          12,52,          23,96,     470.5,          30.9,          21,2021,7,ALL
+Boston - Henderson K-12 Inclusion School Upper,00350426,ELA,           9,15,           1,2,           8,14,          34,58,          16,27,          59,98,     483.7,          27.0,          54,2021,7,ALL
+Boston - Henderson K-12 Inclusion School Upper,00350426,MATH,           3,5,           0,0,           3,5,          43,72,          14,23,          60,100,     479.5,          30.9,          55,2021,7,ALL
+Boston - Hennigan K-8 School,00350153,ELA,          10,13,           1,1,           9,11,          33,42,          36,46,          79,93,     476.9,          37.9,          72,2021,7,ALL
+Boston - Hennigan K-8 School,00350153,MATH,           8,10,           0,0,           8,10,          45,58,          25,32,          78,92,     475.0,          44.4,          72,2021,7,ALL
+Boston - Hernandez K-8 School,00350691,ELA,           2,14,           0,0,           2,14,           4,29,           8,57,          14,48,     469.3,,          10,2021,7,ALL
+Boston - Hernandez K-8 School,00350691,MATH,           1,8,           0,0,           1,8,           6,46,           6,46,          13,45,     472.2,,           9,2021,7,ALL
+Boston - Higginson-Lewis K-8 School,00350377,ELA,           3,7,           0,0,           3,7,          22,52,          17,40,          42,89,     476.6,          42.3,          32,2021,7,ALL
+Boston - Higginson-Lewis K-8 School,00350377,MATH,           5,12,           0,0,           5,12,          22,51,          16,37,          43,91,     474.8,          49.6,          33,2021,7,ALL
+Boston - Hurley K-8 School,00350182,ELA,           7,39,           0,0,           7,39,           7,39,           4,22,          18,95,     488.1,,          17,2021,7,ALL
+Boston - Hurley K-8 School,00350182,MATH,           1,6,           0,0,           1,6,          14,78,           3,17,          18,95,     480.4,,          17,2021,7,ALL
+Boston - Irving Middle School,00350445,ELA,           4,8,           0,0,           4,8,          19,36,          30,57,          53,95,     468.9,          26.3,          46,2021,7,ALL
+Boston - Irving Middle School,00350445,MATH,           2,4,           0,0,           2,4,          27,51,          24,45,          53,95,     470.1,          26.6,          46,2021,7,ALL
+Boston - Jackson-Mann K-8 School,00350013,ELA,           2,8,           0,0,           2,8,          10,42,          12,50,          24,89,     473.4,,          16,2021,7,ALL
+Boston - Jackson-Mann K-8 School,00350013,MATH,           1,4,           0,0,           1,4,          16,62,           9,35,          26,96,     477.9,,          17,2021,7,ALL
+Boston - Kilmer K-8 School,00350190,ELA,           9,26,           2,6,           7,20,          14,40,          12,34,          35,90,     490.6,          46.8,          25,2021,7,ALL
+Boston - Kilmer K-8 School,00350190,MATH,           7,20,           1,3,           6,17,          16,46,          12,34,          35,90,     487.1,          42.6,          25,2021,7,ALL
+Boston - King K-8 School,00350376,ELA,           5,13,           0,0,           5,13,          17,43,          18,45,          40,98,     474.3,          22.1,          38,2021,7,ALL
+Boston - King K-8 School,00350376,MATH,           6,15,           0,0,           6,15,          13,33,          21,53,          40,98,     471.1,          25.4,          38,2021,7,ALL
+Boston - Lee K-8 School,00350183,ELA,           8,14,           1,2,           7,12,          17,29,          34,58,          59,87,     477.5,          33.3,          39,2021,7,ALL
+Boston - Lee K-8 School,00350183,MATH,           1,2,           0,0,           1,2,          19,32,          39,66,          59,89,     466.5,          26.2,          40,2021,7,ALL
+Boston - Lyndon K-8 School,00350262,ELA,           9,22,           0,0,           9,22,          14,34,          18,44,          41,96,     476.5,          26.2,          32,2021,7,ALL
+Boston - Lyndon K-8 School,00350262,MATH,           2,5,           0,0,           2,5,          25,61,          14,34,          41,96,     474.3,          30.8,          32,2021,7,ALL
+Boston - Lyon K-8 School,00350004,ELA,           1,10,           0,0,           1,10,           5,50,           4,40,          10,83,     471.8,,           9,2021,7,ALL
+Boston - Lyon K-8 School,00350004,MATH,           0,0,           0,0,           0,0,           6,55,           5,45,          11,92,     471.6,,           9,2021,7,ALL
+Boston - Mario Umana Academy,00350656,ELA,          39,26,           2,1,          37,24,          54,36,          59,39,         152,94,     481.8,          40.5,         132,2021,7,ALL
+Boston - Mario Umana Academy,00350656,MATH,          14,9,           0,0,          14,9,          85,54,          57,37,         156,96,     475.9,          37.2,         136,2021,7,ALL
+Boston - McCormack Middle School,00350179,ELA,           5,9,           0,0,           5,9,          20,35,          32,56,          57,75,     469.4,          22.8,          45,2021,7,ALL
+Boston - McCormack Middle School,00350179,MATH,           6,10,           0,0,           6,10,          20,34,          33,56,          59,79,     472.7,          25.0,          48,2021,7,ALL
+Boston - McKay K-8 School,00350080,ELA,          12,12,           0,0,          12,12,          47,48,          39,40,          98,100,     476.6,          27.0,          96,2021,7,ALL
+Boston - McKay K-8 School,00350080,MATH,           9,9,           0,0,           9,9,          57,58,          32,33,          98,100,     477.0,          31.3,          95,2021,7,ALL
+Boston - McKinley Schools,00350363,ELA,           1,7,           0,0,           1,7,           8,53,           6,40,          15,81,     473.5,,          11,2021,7,ALL
+Boston - McKinley Schools,00350363,MATH,           0,0,           0,0,           0,0,           8,50,           8,50,          16,86,     466.3,,          12,2021,7,ALL
+Boston - Mildred Avenue K-8 School,00350378,ELA,           5,6,           0,0,           5,6,          36,42,          45,52,          86,100,     474.0,          30.7,          65,2021,7,ALL
+Boston - Mildred Avenue K-8 School,00350378,MATH,           0,0,           0,0,           0,0,          45,53,          40,47,          85,99,     472.7,          32.7,          64,2021,7,ALL
+Boston - Mission Hill K-8 School,00350382,ELA,           4,27,           0,0,           4,27,           2,13,           9,60,          15,95,     476.8,,          13,2021,7,ALL
+Boston - Mission Hill K-8 School,00350382,MATH,           2,13,           0,0,           2,13,           6,40,           7,47,          15,95,     477.0,,          13,2021,7,ALL
+Boston - Murphy K-8 School,00350240,ELA,          12,16,           0,0,          12,16,          44,59,          18,24,          74,79,     485.5,          35.1,          65,2021,7,ALL
+Boston - Murphy K-8 School,00350240,MATH,          16,21,           0,0,          16,21,          40,53,          19,25,          75,80,     485.3,          40.3,          67,2021,7,ALL
+Boston - New Mission High School,00350542,ELA,           9,23,           0,0,           9,23,          20,50,          11,28,          40,93,     483.9,          26.4,          36,2021,7,ALL
+Boston - New Mission High School,00350542,MATH,           3,8,           0,0,           3,8,          28,70,           9,23,          40,93,     480.3,          27.9,          34,2021,7,ALL
+Boston - O'Bryant School of Math & Science,00350575,ELA,         104,68,           6,4,          98,64,          48,31,           2,1,         154,99,     507.1,          39.4,         143,2021,7,ALL
+Boston - O'Bryant School of Math & Science,00350575,MATH,         103,67,          10,6,          93,60,          48,31,           3,2,         154,99,     506.3,          36.9,         143,2021,7,ALL
+Boston - Ohrenberger School,00350258,ELA,           7,10,           0,0,           7,10,          33,47,          30,43,          70,90,     476.3,          29.0,          60,2021,7,ALL
+Boston - Ohrenberger School,00350258,MATH,           8,12,           0,0,           8,12,          35,54,          22,34,          65,84,     476.7,          30.1,          57,2021,7,ALL
+Boston - Orchard Gardens K-8 School,00350257,ELA,          13,17,           0,0,          13,17,          28,36,          37,47,          78,96,     475.1,          38.9,          76,2021,7,ALL
+Boston - Orchard Gardens K-8 School,00350257,MATH,           6,8,           0,0,           6,8,          41,53,          30,39,          77,92,     475.0,          42.8,          75,2021,7,ALL
+Boston - Quincy Upper School,00350565,ELA,          14,18,           2,3,          12,15,          43,54,          22,28,          79,98,     482.7,          31.0,          78,2021,7,ALL
+Boston - Quincy Upper School,00350565,MATH,          13,17,           2,3,          11,14,          46,59,          19,24,          78,96,     484.3,          33.7,          77,2021,7,ALL
+Boston - Roosevelt K-8 School,00350116,ELA,           3,11,           0,0,           3,11,          13,48,          11,41,          27,69,     473.7,          21.9,          23,2021,7,ALL
+Boston - Roosevelt K-8 School,00350116,MATH,           0,0,           0,0,           0,0,          21,75,           7,25,          28,71,     477.5,          36.0,          24,2021,7,ALL
+Boston - TechBoston Academy,00350657,ELA,           7,7,           0,0,           7,7,          50,52,          40,41,          97,95,     473.5,          22.6,          85,2021,7,ALL
+Boston - TechBoston Academy,00350657,MATH,           2,2,           0,0,           2,2,          50,53,          42,45,          94,92,     470.7,          23.8,          82,2021,7,ALL
+Boston - Timilty Middle School,00350485,ELA,          10,14,           0,0,          10,14,          27,38,          34,48,          71,92,     474.3,          27.8,          62,2021,7,ALL
+Boston - Timilty Middle School,00350485,MATH,           4,6,           0,0,           4,6,          32,46,          34,49,          70,90,     472.5,          28.3,          62,2021,7,ALL
+Boston - Tobin K-8 School,00350229,ELA,           2,4,           0,0,           2,4,          17,35,          30,61,          49,100,     467.1,          19.2,          42,2021,7,ALL
+Boston - Tobin K-8 School,00350229,MATH,           2,4,           0,0,           2,4,          28,60,          17,36,          47,96,     474.7,          32.8,          41,2021,7,ALL
+Boston - Trotter K-8 School,00350370,ELA,           2,8,           0,0,           2,8,          10,42,          12,50,          24,89,     472.8,          19.3,          24,2021,7,ALL
+Boston - Trotter K-8 School,00350370,MATH,           3,13,           0,0,           3,13,          12,50,           9,38,          24,89,     477.5,          30.9,          24,2021,7,ALL
+Boston - Warren-Prescott K-8 School,00350346,ELA,           6,20,           0,0,           6,20,          16,53,           8,27,          30,97,     490.4,          29.7,          24,2021,7,ALL
+Boston - Warren-Prescott K-8 School,00350346,MATH,           4,13,           0,0,           4,13,          18,60,           8,27,          30,97,     485.2,          23.9,          24,2021,7,ALL
+Boston - Young Achievers K-8 School,00350380,ELA,           3,6,           1,2,           2,4,          18,38,          26,55,          47,91,     471.1,          39.4,          41,2021,7,ALL
+Boston - Young Achievers K-8 School,00350380,MATH,           3,7,           0,0,           3,7,          23,50,          20,43,          46,89,     472.0,          36.4,          39,2021,7,ALL
+Boston Collegiate Charter (District) - Boston Collegiate Charter School,04490305,ELA,          44,42,           4,4,          40,38,          39,38,          21,20,         104,98,     492.4,          40.0,          94,2021,7,ALL
+Boston Collegiate Charter (District) - Boston Collegiate Charter School,04490305,MATH,          31,30,           4,4,          27,26,          58,56,          14,14,         103,97,     490.7,          43.5,          92,2021,7,ALL
+Boston Green Academy Horace Mann Charter School (District) - Boston Green Academy Horace Mann Charter School,04110305,ELA,           7,15,           0,0,           7,15,          20,42,          21,44,          48,77,     474.7,          19.9,          45,2021,7,ALL
+Boston Green Academy Horace Mann Charter School (District) - Boston Green Academy Horace Mann Charter School,04110305,MATH,           1,2,           0,0,           1,2,          30,58,          21,40,          52,84,     472.7,          27.0,          48,2021,7,ALL
+Boston Preparatory Charter Public (District) - Boston Preparatory Charter Public School,04160305,ELA,          24,23,           0,0,          24,23,          47,45,          34,32,         105,98,     482.5,          36.4,          98,2021,7,ALL
+Boston Preparatory Charter Public (District) - Boston Preparatory Charter Public School,04160305,MATH,           7,7,           0,0,           7,7,          71,67,          28,26,         106,99,     478.4,          32.2,          98,2021,7,ALL
+Bourne - Bourne Middle School,00360325,ELA,          46,33,           4,3,          42,30,          62,45,          31,22,         139,89,     489.4,          26.0,         133,2021,7,ALL
+Bourne - Bourne Middle School,00360325,MATH,          37,27,           2,1,          35,25,          74,54,          27,20,         138,88,     486.9,          32.0,         132,2021,7,ALL
+Braintree - East Middle School,00400305,ELA,         145,54,          15,6,         130,49,          99,37,          24,9,         268,98,     500.7,          32.0,         256,2021,7,ALL
+Braintree - East Middle School,00400305,MATH,         150,56,          36,13,         114,42,          99,37,          20,7,         269,99,     504.3,          50.0,         256,2021,7,ALL
+Braintree - South Middle School,00400310,ELA,         122,64,          29,15,          93,49,          49,26,          20,10,         191,96,     506.2,          40.0,         186,2021,7,ALL
+Braintree - South Middle School,00400310,MATH,          99,52,          18,9,          81,42,          77,40,          15,8,         191,96,     502.5,          45.2,         186,2021,7,ALL
+Bridge Boston Charter School (District) - Bridge Boston Charter School,04170205,ELA,           6,24,           0,0,           6,24,          12,48,           7,28,          25,93,     486.3,          34.6,          25,2021,7,ALL
+Bridge Boston Charter School (District) - Bridge Boston Charter School,04170205,MATH,           5,21,           1,4,           4,17,          14,58,           5,21,          24,89,     484.7,          43.4,          24,2021,7,ALL
+Bridgewater-Raynham - Bridgewater Middle School,06250320,ELA,         124,50,          13,5,         111,45,         104,42,          21,8,         249,99,     499.1,          37.0,         237,2021,7,ALL
+Bridgewater-Raynham - Bridgewater Middle School,06250320,MATH,         105,42,           8,3,          97,39,         122,49,          23,9,         250,99,     496.4,          32.0,         238,2021,7,ALL
+Bridgewater-Raynham - Raynham Middle School,06250315,ELA,          68,42,           4,2,          64,39,          75,46,          20,12,         163,95,     495.0,          30.4,         154,2021,7,ALL
+Bridgewater-Raynham - Raynham Middle School,06250315,MATH,          53,32,           3,2,          50,30,          90,55,          21,13,         164,95,     491.7,          27.5,         155,2021,7,ALL
+Brockton - Ashfield Middle School,00440421,ELA,          42,24,           4,2,          38,22,          70,40,          62,36,         174,93,     483.7,          40.1,         146,2021,7,ALL
+Brockton - Ashfield Middle School,00440421,MATH,          27,15,           1,1,          26,15,         101,56,          51,28,         179,96,     481.7,          37.5,         150,2021,7,ALL
+Brockton - East Middle School,00440405,ELA,          36,17,           3,1,          33,15,          80,37,          98,46,         214,96,     476.1,          37.5,         182,2021,7,ALL
+Brockton - East Middle School,00440405,MATH,           8,4,           0,0,           8,4,         109,50,          99,46,         216,96,     469.9,          27.4,         183,2021,7,ALL
+Brockton - Edgar B Davis,00440023,ELA,          25,21,           3,3,          22,18,          61,51,          34,28,         120,100,     483.7,          31.1,         114,2021,7,ALL
+Brockton - Edgar B Davis,00440023,MATH,          18,15,           0,0,          18,15,          66,55,          35,29,         119,99,     481.0,          31.4,         113,2021,7,ALL
+Brockton - Joseph F. Plouffe Academy,00440422,ELA,          70,32,           8,4,          62,29,          79,37,          67,31,         216,90,     487.4,          33.7,         196,2021,7,ALL
+Brockton - Joseph F. Plouffe Academy,00440422,MATH,          59,28,          10,5,          49,23,          97,45,          58,27,         214,90,     486.4,          30.7,         195,2021,7,ALL
+Brockton - South Middle School,00440415,ELA,          18,10,           0,0,          18,10,          80,43,          86,47,         184,98,     473.7,          30.4,         155,2021,7,ALL
+Brockton - South Middle School,00440415,MATH,          11,6,           0,0,          11,6,          82,45,          90,49,         183,98,     471.7,          25.8,         155,2021,7,ALL
+Brockton - West Middle School,00440420,ELA,          41,21,           5,3,          36,18,          98,49,          61,31,         200,97,     481.2,          31.0,         197,2021,7,ALL
+Brockton - West Middle School,00440420,MATH,          21,10,           1,0,          20,10,         120,60,          60,30,         201,98,     477.9,          31.1,         198,2021,7,ALL
+Brooke Charter School (District) - Brooke Charter School,04280305,ELA,          94,53,          21,12,          73,41,          71,40,          14,8,         179,99,     502.3,          45.7,         155,2021,7,ALL
+Brooke Charter School (District) - Brooke Charter School,04280305,MATH,          98,55,          12,7,          86,48,          69,39,          11,6,         178,99,     501.8,          47.4,         156,2021,7,ALL
+Brookline - Edith C Baker,00460005,ELA,          30,63,          11,23,          19,40,          11,23,           7,15,          48,100,     507.8,          44.3,          43,2021,7,ALL
+Brookline - Edith C Baker,00460005,MATH,          36,75,          17,35,          19,40,          10,21,           2,4,          48,100,     517.3,          64.7,          42,2021,7,ALL
+Brookline - Florida Ruffin Ridley School,00460015,ELA,          54,68,          19,24,          35,44,          20,25,           6,8,          80,96,     512.3,          52.9,          75,2021,7,ALL
+Brookline - Florida Ruffin Ridley School,00460015,MATH,          50,63,          12,15,          38,48,          23,29,           6,8,          79,95,     506.9,          36.5,          74,2021,7,ALL
+Brookline - Heath,00460025,ELA,          32,78,          10,24,          22,54,           7,17,           2,5,          41,96,     514.8,          55.6,          38,2021,7,ALL
+Brookline - Heath,00460025,MATH,          26,63,          13,32,          13,32,          13,32,           2,5,          41,96,     510.5,          58.4,          38,2021,7,ALL
+Brookline - John D Runkle,00460045,ELA,          34,63,           5,9,          29,54,          15,28,           5,9,          54,95,     504.5,          39.3,          49,2021,7,ALL
+Brookline - John D Runkle,00460045,MATH,          31,57,          11,20,          20,37,          19,35,           4,7,          54,95,     506.5,          57.7,          50,2021,7,ALL
+Brookline - Lawrence,00460030,ELA,          38,73,          17,33,          21,40,          11,21,           3,6,          52,98,     515.2,          63.6,          46,2021,7,ALL
+Brookline - Lawrence,00460030,MATH,          39,75,          14,27,          25,48,          12,23,           1,2,          52,98,     516.5,          61.4,          46,2021,7,ALL
+Brookline - Michael Driscoll,00460020,ELA,          31,62,           9,18,          22,44,          16,32,           3,6,          50,98,     508.7,          51.0,          44,2021,7,ALL
+Brookline - Michael Driscoll,00460020,MATH,          32,64,          12,24,          20,40,          17,34,           1,2,          50,98,     511.3,          53.2,          44,2021,7,ALL
+Brookline - Pierce,00460040,ELA,          69,78,          22,25,          47,53,          16,18,           3,3,          88,99,     517.1,          63.0,          82,2021,7,ALL
+Brookline - Pierce,00460040,MATH,          64,74,          22,25,          42,48,          22,25,           1,1,          87,98,     516.4,          57.0,          82,2021,7,ALL
+Brookline - William H Lincoln,00460035,ELA,          37,71,          11,21,          26,50,          10,19,           5,10,          52,98,     511.0,          53.2,          46,2021,7,ALL
+Brookline - William H Lincoln,00460035,MATH,          36,69,          15,29,          21,40,          14,27,           2,4,          52,98,     514.7,          59.0,          46,2021,7,ALL
+Burlington - Marshall Simonds Middle,00480303,ELA,         104,51,          12,6,          92,45,          74,36,          27,13,         205,88,     497.6,          36.4,         192,2021,7,ALL
+Burlington - Marshall Simonds Middle,00480303,MATH,          94,47,          18,9,          76,38,          88,44,          16,8,         198,85,     500.2,          38.5,         186,2021,7,ALL
+Cambridge - Amigos School,00490006,ELA,          20,56,           6,17,          14,39,          12,33,           4,11,          36,92,     505.0,          48.9,          34,2021,7,ALL
+Cambridge - Amigos School,00490006,MATH,          22,61,           6,17,          16,44,          10,28,           4,11,          36,92,     502.3,          52.2,          34,2021,7,ALL
+Cambridge - Cambridge Street Upper School,00490305,ELA,          24,39,           7,11,          17,28,          16,26,          21,34,          61,60,     492.6,          28.4,          53,2021,7,ALL
+Cambridge - Cambridge Street Upper School,00490305,MATH,          17,31,           4,7,          13,24,          21,38,          17,31,          55,54,     489.9,          26.7,          48,2021,7,ALL
+Cambridge - Putnam Avenue Upper School,00490310,ELA,          25,45,           7,13,          18,32,          22,39,           9,16,          56,75,     496.8,          29.4,          45,2021,7,ALL
+Cambridge - Putnam Avenue Upper School,00490310,MATH,          15,28,           6,11,           9,17,          24,45,          14,26,          53,70,     489.1,          27.9,          43,2021,7,ALL
+Cambridge - Rindge Avenue Upper School,00490315,ELA,          38,69,           8,15,          30,55,          12,22,           5,9,          55,66,     507.0,          32.8,          51,2021,7,ALL
+Cambridge - Rindge Avenue Upper School,00490315,MATH,          29,51,           7,12,          22,39,          20,35,           8,14,          57,69,     499.3,          32.4,          53,2021,7,ALL
+Cambridge - Vassal Lane Upper School,00490320,ELA,          21,36,           2,3,          19,33,          25,43,          12,21,          58,64,     491.6,          32.4,          51,2021,7,ALL
+Cambridge - Vassal Lane Upper School,00490320,MATH,          19,33,           3,5,          16,28,          27,47,          11,19,          57,61,     491.1,          42.2,          50,2021,7,ALL
+Canton - Wm H Galvin Middle,00500305,ELA,         139,51,          15,6,         124,46,          92,34,          39,14,         270,97,     498.9,          36.4,         256,2021,7,ALL
+Canton - Wm H Galvin Middle,00500305,MATH,         116,43,          21,8,          95,35,         123,45,          32,12,         271,98,     496.7,          28.6,         258,2021,7,ALL
+Cape Cod Lighthouse Charter (District) - Cape Cod Lighthouse Charter School,04320530,ELA,          44,54,           2,2,          42,51,          31,38,           7,9,          82,98,     498.8,          38.7,          74,2021,7,ALL
+Cape Cod Lighthouse Charter (District) - Cape Cod Lighthouse Charter School,04320530,MATH,          20,25,           1,1,          19,24,          51,64,           9,11,          80,95,     489.7,          30.1,          72,2021,7,ALL
+Carlisle - Carlisle School,00510025,ELA,          54,69,           5,6,          49,63,          21,27,           3,4,          78,98,     507.0,          36.2,          72,2021,7,ALL
+Carlisle - Carlisle School,00510025,MATH,          56,72,          17,22,          39,50,          18,23,           4,5,          78,98,     513.2,          49.1,          72,2021,7,ALL
+Carver - Carver Middle/High School,00520405,ELA,          37,35,           0,0,          37,35,          55,51,          15,14,         107,96,     490.8,          33.1,         103,2021,7,ALL
+Carver - Carver Middle/High School,00520405,MATH,          26,26,           0,0,          26,26,          58,57,          17,17,         101,90,     488.0,          29.3,          97,2021,7,ALL
+Central Berkshire - Nessacus Regional Middle School,06350305,ELA,          53,48,          12,11,          41,37,          35,32,          22,20,         110,100,     494.8,          39.9,         104,2021,7,ALL
+Central Berkshire - Nessacus Regional Middle School,06350305,MATH,          28,25,           2,2,          26,24,          62,56,          20,18,         110,100,     486.7,          28.0,         105,2021,7,ALL
+Chelmsford - Col Moses Parker School,00560305,ELA,          98,55,          15,8,          83,47,          66,37,          14,8,         178,98,     501.6,          39.8,         167,2021,7,ALL
+Chelmsford - Col Moses Parker School,00560305,MATH,          86,48,          20,11,          66,37,          77,43,          15,8,         178,98,     500.7,          40.9,         166,2021,7,ALL
+Chelmsford - McCarthy Middle School,00560310,ELA,         146,73,          33,17,         113,57,          42,21,          11,6,         199,99,     510.7,          50.2,         190,2021,7,ALL
+Chelmsford - McCarthy Middle School,00560310,MATH,         116,58,          24,12,          92,46,          72,36,          11,6,         199,99,     505.5,          45.4,         190,2021,7,ALL
+Chelsea - Clark Avenue School,00570050,ELA,          29,16,           0,0,          29,16,          79,45,          68,39,         176,95,     478.2,          28.8,         157,2021,7,ALL
+Chelsea - Clark Avenue School,00570050,MATH,          13,7,           0,0,          13,7,          87,48,          80,44,         180,97,     471.4,          21.5,         163,2021,7,ALL
+Chelsea - Eugene Wright Science and Technology Academy,00570045,ELA,          42,34,           2,2,          40,32,          43,34,          40,32,         125,89,     484.7,          27.2,         113,2021,7,ALL
+Chelsea - Eugene Wright Science and Technology Academy,00570045,MATH,          19,15,           2,2,          17,13,          63,50,          44,35,         126,90,     479.6,          22.8,         115,2021,7,ALL
+Chelsea - Joseph A. Browne School,00570055,ELA,          25,18,           2,1,          23,16,          68,48,          49,35,         142,84,     479.4,          28.9,         128,2021,7,ALL
+Chelsea - Joseph A. Browne School,00570055,MATH,          12,8,           2,1,          10,7,          65,46,          65,46,         142,84,     472.8,          28.2,         129,2021,7,ALL
+Chicopee - Bellamy Middle,00610305,ELA,          65,24,           6,2,          59,22,         120,44,          88,32,         273,99,     484.5,          27.8,         251,2021,7,ALL
+Chicopee - Bellamy Middle,00610305,MATH,          47,17,           6,2,          41,15,         164,60,          63,23,         274,99,     484.2,          29.9,         251,2021,7,ALL
+Chicopee - Dupont Middle,00610310,ELA,          53,21,           3,1,          50,20,         118,47,          80,32,         251,94,     483.4,          22.5,         227,2021,7,ALL
+Chicopee - Dupont Middle,00610310,MATH,          46,19,           0,0,          46,19,         144,60,          51,21,         241,91,     484.1,          23.2,         219,2021,7,ALL
+Christa McAuliffe Charter School (District) - Christa McAuliffe Charter School,04180305,ELA,          64,46,           2,1,          62,45,          58,42,          16,12,         138,99,     495.1,          37.0,         121,2021,7,ALL
+Christa McAuliffe Charter School (District) - Christa McAuliffe Charter School,04180305,MATH,          43,31,           5,4,          38,28,          75,54,          20,14,         138,99,     489.4,          34.9,         122,2021,7,ALL
+Clarksburg - Clarksburg Elementary,00630010,ELA,          11,37,           0,0,          11,37,          17,57,           2,7,          30,100,     492.9,          42.8,          28,2021,7,ALL
+Clarksburg - Clarksburg Elementary,00630010,MATH,           4,13,           0,0,           4,13,          23,77,           3,10,          30,100,     487.2,          50.1,          28,2021,7,ALL
+Clinton - Clinton Middle School,00640305,ELA,          54,35,           6,4,          48,31,          58,38,          42,27,         154,98,     490.1,          43.6,         145,2021,7,ALL
+Clinton - Clinton Middle School,00640305,MATH,          29,19,           3,2,          26,17,          85,55,          40,26,         154,98,     481.1,          38.9,         145,2021,7,ALL
+Codman Academy Charter Public (District) - Codman Academy Charter Public School,04380505,ELA,           4,18,           0,0,           4,18,          10,45,           8,36,          22,100,     480.5,          33.6,          21,2021,7,ALL
+Codman Academy Charter Public (District) - Codman Academy Charter Public School,04380505,MATH,           0,0,           0,0,           0,0,          13,59,           9,41,          22,100,     472.1,          27.2,          21,2021,7,ALL
+Cohasset - Cohasset Middle School,00650305,ELA,          73,60,           9,7,          64,52,          45,37,           4,3,         122,97,     504.6,          33.7,         119,2021,7,ALL
+Cohasset - Cohasset Middle School,00650305,MATH,          55,45,           0,0,          55,45,          62,50,           6,5,         123,98,     497.5,          37.7,         119,2021,7,ALL
+Collegiate Charter School of Lowell (District) - Collegiate Charter School of Lowell,35030205,ELA,          53,45,           3,3,          50,42,          49,42,          16,14,         118,98,     495.7,          42.4,         107,2021,7,ALL
+Collegiate Charter School of Lowell (District) - Collegiate Charter School of Lowell,35030205,MATH,          36,30,           6,5,          30,25,          68,57,          15,13,         119,98,     492.4,          45.2,         107,2021,7,ALL
+Community Charter School of Cambridge (District) - Community Charter School of Cambridge,04360305,ELA,          24,59,           2,5,          22,54,          15,37,           2,5,          41,100,     501.9,          45.3,          37,2021,7,ALL
+Community Charter School of Cambridge (District) - Community Charter School of Cambridge,04360305,MATH,          18,44,           1,2,          17,41,          19,46,           4,10,          41,100,     495.8,          45.6,          36,2021,7,ALL
+Community Day Charter Public School (District) - Community Day Charter Public School,04400205,ELA,          21,49,           2,5,          19,44,          16,37,           6,14,          43,100,     498.4,          32.6,          43,2021,7,ALL
+Community Day Charter Public School (District) - Community Day Charter Public School,04400205,MATH,          19,44,           0,0,          19,44,          21,49,           3,7,          43,100,     495.6,          23.8,          43,2021,7,ALL
+Community Day Charter Public School - Gateway (District) - Community Day Charter Public School - Gateway,04260205,ELA,          20,57,           6,17,          14,40,          10,29,           5,14,          35,100,     502.9,          35.5,          35,2021,7,ALL
+Community Day Charter Public School - Gateway (District) - Community Day Charter Public School - Gateway,04260205,MATH,          16,47,           3,9,          13,38,          15,44,           3,9,          34,97,     497.2,          18.9,          34,2021,7,ALL
+Community Day Charter Public School - R. Kingman Webster (District) - Community Day Charter Public School - R. Kingman Webster,04310205,ELA,          19,54,           3,9,          16,46,          13,37,           3,9,          35,100,     499.9,          26.0,          35,2021,7,ALL
+Community Day Charter Public School - R. Kingman Webster (District) - Community Day Charter Public School - R. Kingman Webster,04310205,MATH,          13,37,           1,3,          12,34,          18,51,           4,11,          35,100,     494.3,          10.6,          35,2021,7,ALL
+Concord - Concord Middle,00670305,ELA,         146,66,          25,11,         121,55,          62,28,          13,6,         221,97,     507.0,          36.2,         201,2021,7,ALL
+Concord - Concord Middle,00670305,MATH,         118,53,          30,14,          88,40,          89,40,          15,7,         222,97,     503.6,          24.7,         202,2021,7,ALL
+Conservatory Lab Charter (District) - Conservatory Lab Charter School,04390050,ELA,           6,19,           0,0,           6,19,          15,48,          10,32,          31,100,     482.6,          47.4,          31,2021,7,ALL
+Conservatory Lab Charter (District) - Conservatory Lab Charter School,04390050,MATH,           3,10,           0,0,           3,10,          15,48,          13,42,          31,100,     473.1,          26.2,          31,2021,7,ALL
+Danvers - Holten Richmond Middle School,00710305,ELA,         103,42,           7,3,          96,39,         110,45,          32,13,         245,96,     495.8,          34.3,         239,2021,7,ALL
+Danvers - Holten Richmond Middle School,00710305,MATH,          82,34,           6,2,          76,32,         128,53,          31,13,         241,95,     492.1,          24.7,         236,2021,7,ALL
+Dartmouth - Dartmouth Middle,00720050,ELA,         135,52,          23,9,         112,43,          94,36,          31,12,         260,95,     501.4,          39.4,         247,2021,7,ALL
+Dartmouth - Dartmouth Middle,00720050,MATH,         110,42,          15,6,          95,37,         122,47,          28,11,         260,95,     497.6,          43.2,         246,2021,7,ALL
+Dedham - Dedham Middle School,00730305,ELA,          80,40,           5,3,          75,38,          84,42,          34,17,         198,98,     492.2,          29.6,         187,2021,7,ALL
+Dedham - Dedham Middle School,00730305,MATH,          84,42,          14,7,          70,35,          97,49,          17,9,         198,98,     497.9,          39.9,         187,2021,7,ALL
+Dennis-Yarmouth - Mattacheese Middle School,06450305,ELA,          89,40,           7,3,          82,37,          90,40,          44,20,         223,100,     491.6,          46.4,         202,2021,7,ALL
+Dennis-Yarmouth - Mattacheese Middle School,06450305,MATH,          45,20,           5,2,          40,18,         118,53,          60,27,         223,100,     484.3,          35.5,         203,2021,7,ALL
+Dighton-Rehoboth - Dighton Middle School,06500305,ELA,          31,36,           3,4,          28,33,          46,54,           8,9,          85,84,     493.1,          29.1,          85,2021,7,ALL
+Dighton-Rehoboth - Dighton Middle School,06500305,MATH,          42,51,           9,11,          33,40,          38,46,           3,4,          83,82,     502.6,          51.6,          83,2021,7,ALL
+Dighton-Rehoboth - Dorothy L Beckwith,06500310,ELA,          40,35,           2,2,          38,33,          60,53,          14,12,         114,89,     491.8,          31.6,         110,2021,7,ALL
+Dighton-Rehoboth - Dorothy L Beckwith,06500310,MATH,          29,25,           1,1,          28,25,          63,55,          22,19,         114,89,     487.2,          24.0,         110,2021,7,ALL
+Douglas - Douglas Middle School,00770305,ELA,          27,41,           1,2,          26,39,          28,42,          11,17,          66,78,     493.6,          21.3,          64,2021,7,ALL
+Douglas - Douglas Middle School,00770305,MATH,          32,48,           0,0,          32,48,          26,39,           9,13,          67,79,     497.0,          35.9,          65,2021,7,ALL
+Dover-Sherborn - Dover-Sherborn Regional Middle School,06550405,ELA,         133,79,          19,11,         114,67,          34,20,           2,1,         169,92,     511.2,          39.0,         155,2021,7,ALL
+Dover-Sherborn - Dover-Sherborn Regional Middle School,06550405,MATH,         131,78,          41,24,          90,54,          33,20,           4,2,         168,91,     516.2,          46.7,         154,2021,7,ALL
+Dracut - Justus C. Richardson Middle School,00790410,ELA,         135,45,          19,6,         116,39,         113,38,          49,16,         297,100,     495.0,          30.5,         284,2021,7,ALL
+Dracut - Justus C. Richardson Middle School,00790410,MATH,          96,32,          16,5,          80,27,         152,51,          49,16,         297,100,     491.1,          31.0,         284,2021,7,ALL
+Dudley-Charlton Reg - Charlton Middle School,06580310,ELA,         102,57,          17,9,          85,47,          59,33,          19,11,         180,99,     501.8,          45.2,         171,2021,7,ALL
+Dudley-Charlton Reg - Charlton Middle School,06580310,MATH,          59,33,           2,1,          57,32,          96,53,          25,14,         180,99,     490.1,          25.6,         171,2021,7,ALL
+Dudley-Charlton Reg - Dudley Middle School,06580305,ELA,          60,42,           7,5,          53,37,          59,42,          23,16,         142,99,     494.6,          36.5,         135,2021,7,ALL
+Dudley-Charlton Reg - Dudley Middle School,06580305,MATH,          31,22,           2,1,          29,21,          95,68,          14,10,         140,98,     489.8,          29.8,         133,2021,7,ALL
+Duxbury - Duxbury Middle,00820305,ELA,         118,57,          14,7,         104,50,          76,37,          14,7,         208,93,     502.2,          35.4,         199,2021,7,ALL
+Duxbury - Duxbury Middle,00820305,MATH,         108,51,          10,5,          98,46,          94,45,           9,4,         211,94,     502.6,          26.5,         202,2021,7,ALL
+East Bridgewater - East Bridgewater JR./SR. High School,00830505,ELA,          57,35,           3,2,          54,33,          86,52,          21,13,         164,97,     493.1,          32.6,         163,2021,7,ALL
+East Bridgewater - East Bridgewater JR./SR. High School,00830505,MATH,          36,22,           4,2,          32,20,         105,64,          23,14,         164,97,     488.3,          29.8,         164,2021,7,ALL
+East Longmeadow - Birchland Park,00870305,ELA,         113,58,          27,14,          86,44,          74,38,           9,5,         196,98,     505.9,          48.2,         187,2021,7,ALL
+East Longmeadow - Birchland Park,00870305,MATH,         100,52,          17,9,          83,43,          78,41,          14,7,         192,96,     501.1,          49.0,         185,2021,7,ALL
+Easthampton - White Brook Middle School,00860305,ELA,          32,40,           0,0,          32,40,          37,46,          11,14,          80,92,     491.7,          43.5,          78,2021,7,ALL
+Easthampton - White Brook Middle School,00860305,MATH,          24,30,           2,3,          22,28,          44,56,          11,14,          79,91,     490.0,          51.3,          77,2021,7,ALL
+Easton - Easton Middle School,00880405,ELA,         142,55,          12,5,         130,50,          95,37,          23,9,         260,97,     500.7,          36.6,         252,2021,7,ALL
+Easton - Easton Middle School,00880405,MATH,         120,46,          13,5,         107,41,         127,49,          12,5,         259,97,     500.7,          36.3,         252,2021,7,ALL
+Edgartown - Edgartown Elementary,00890005,ELA,          15,42,           2,6,          13,36,          12,33,           9,25,          36,97,     491.4,          32.0,          27,2021,7,ALL
+Edgartown - Edgartown Elementary,00890005,MATH,          10,28,           1,3,           9,25,          19,53,           7,19,          36,97,     488.6,          34.4,          27,2021,7,ALL
+Everett - George Keverian School,00930028,ELA,          23,29,           0,0,          23,29,          32,41,          23,29,          78,74,     484.4,          27.9,          61,2021,7,ALL
+Everett - George Keverian School,00930028,MATH,          15,21,           3,4,          12,17,          46,64,          11,15,          72,68,     488.0,          38.3,          55,2021,7,ALL
+Everett - Lafayette School,00930038,ELA,          24,21,           1,1,          23,20,          41,36,          49,43,         114,91,     479.6,          26.7,          93,2021,7,ALL
+Everett - Lafayette School,00930038,MATH,          16,14,           1,1,          15,13,          52,46,          45,40,         113,90,     478.9,          25.1,          94,2021,7,ALL
+Everett - Madeline English School,00930018,ELA,          15,25,           0,0,          15,25,          26,44,          18,31,          59,72,     484.1,          22.8,          56,2021,7,ALL
+Everett - Madeline English School,00930018,MATH,          22,37,           2,3,          20,34,          24,41,          13,22,          59,72,     489.7,          30.0,          56,2021,7,ALL
+Everett - Parlin School,00930058,ELA,          17,18,           0,0,          17,18,          35,38,          41,44,          93,98,     476.2,          30.9,          80,2021,7,ALL
+Everett - Parlin School,00930058,MATH,          18,20,           0,0,          18,20,          48,53,          25,27,          91,94,     481.9,          42.6,          79,2021,7,ALL
+Everett - Sumner G. Whittier School,00930010,ELA,          18,26,           0,0,          18,26,          34,49,          17,25,          69,99,     484.7,          35.7,          62,2021,7,ALL
+Everett - Sumner G. Whittier School,00930010,MATH,          16,23,           0,0,          16,23,          43,62,          10,14,          69,99,     484.7,          30.2,          62,2021,7,ALL
+Excel Academy Charter (District) - Excel Academy Charter School,04100205,ELA,          76,44,           9,5,          67,39,          66,39,          29,17,         171,97,     495.9,          45.1,         160,2021,7,ALL
+Excel Academy Charter (District) - Excel Academy Charter School,04100205,MATH,          50,30,           6,4,          44,26,          95,56,          24,14,         169,96,     490.5,          40.9,         160,2021,7,ALL
+Fairhaven - Hastings Middle,00940305,ELA,          40,34,           5,4,          35,30,          59,51,          17,15,         116,79,     493.6,          33.8,         112,2021,7,ALL
+Fairhaven - Hastings Middle,00940305,MATH,          47,40,           7,6,          40,34,          59,50,          12,10,         118,80,     495.4,          39.4,         113,2021,7,ALL
+Fall River - Henry Lord Community School,00950017,ELA,          18,23,           1,1,          17,22,          27,35,          32,42,          77,98,     481.3,          33.5,          61,2021,7,ALL
+Fall River - Henry Lord Community School,00950017,MATH,          12,16,           1,1,          11,15,          32,43,          31,41,          75,95,     480.2,          43.8,          59,2021,7,ALL
+Fall River - John J Doran,00950045,ELA,          12,27,           2,4,          10,22,          20,44,          13,29,          45,96,     486.8,          40.3,          45,2021,7,ALL
+Fall River - John J Doran,00950045,MATH,          10,24,           2,5,           8,19,          22,52,          10,24,          42,90,     485.9,          43.5,          42,2021,7,ALL
+Fall River - Matthew J Kuss Middle,00950320,ELA,          62,29,           7,3,          55,25,          82,38,          73,34,         217,93,     485.4,          30.1,         198,2021,7,ALL
+Fall River - Matthew J Kuss Middle,00950320,MATH,          58,27,           6,3,          52,24,          94,43,          65,30,         217,94,     485.0,          33.1,         198,2021,7,ALL
+Fall River - Morton Middle,00950315,ELA,          57,26,           5,2,          52,24,          99,45,          65,29,         221,98,     484.4,          29.2,         209,2021,7,ALL
+Fall River - Morton Middle,00950315,MATH,          30,14,           4,2,          26,12,         124,56,          67,30,         221,98,     480.2,          31.8,         209,2021,7,ALL
+Fall River - Talbot Innovation School,00950305,ELA,          17,10,           1,1,          16,9,          64,37,          93,53,         174,94,     471.3,          28.3,         133,2021,7,ALL
+Fall River - Talbot Innovation School,00950305,MATH,          12,7,           0,0,          12,7,          91,52,          71,41,         174,94,     472.3,          34.5,         134,2021,7,ALL
+Falmouth - Lawrence,00960405,ELA,         119,51,          17,7,         102,43,          81,34,          35,15,         235,96,     499.0,          42.5,         230,2021,7,ALL
+Falmouth - Lawrence,00960405,MATH,         100,42,          12,5,          88,37,         111,47,          26,11,         237,96,     497.0,          47.3,         231,2021,7,ALL
+Fitchburg - Arthur M Longsjo Middle School,00970315,ELA,          31,22,           1,1,          30,21,          51,36,          61,43,         143,91,     479.2,          25.1,         133,2021,7,ALL
+Fitchburg - Arthur M Longsjo Middle School,00970315,MATH,          22,15,           3,2,          19,13,          66,45,          58,40,         146,93,     478.3,          33.6,         136,2021,7,ALL
+Fitchburg - McKay Elementary School,00970340,ELA,          10,18,           1,2,           9,16,          24,42,          23,40,          57,97,     479.2,          37.4,          53,2021,7,ALL
+Fitchburg - McKay Elementary School,00970340,MATH,           5,9,           1,2,           4,7,          32,55,          21,36,          58,97,     479.2,          46.4,          53,2021,7,ALL
+Fitchburg - Memorial Middle School,00970048,ELA,          50,32,           4,3,          46,30,          58,38,          46,30,         154,98,     486.0,          34.6,         150,2021,7,ALL
+Fitchburg - Memorial Middle School,00970048,MATH,          23,15,           0,0,          23,15,          89,59,          40,26,         152,96,     481.0,          40.3,         148,2021,7,ALL
+Florida - Abbott Memorial,00980005,ELA,           5,28,           0,0,           5,28,           9,50,           4,22,          18,95,     486.8,,          17,2021,7,ALL
+Florida - Abbott Memorial,00980005,MATH,           3,17,           0,0,           3,17,          11,61,           4,22,          18,95,     485.1,,          17,2021,7,ALL
+Four Rivers Charter Public (District) - Four Rivers Charter Public School,04130505,ELA,          14,64,           0,0,          14,64,           6,27,           2,9,          22,58,     498.7,          36.1,          20,2021,7,ALL
+Four Rivers Charter Public (District) - Four Rivers Charter Public School,04130505,MATH,           6,30,           0,0,           6,30,          10,50,           4,20,          20,53,     486.1,,          18,2021,7,ALL
+Foxborough - John J Ahern,00990405,ELA,         113,55,          22,11,          91,44,          70,34,          22,11,         205,97,     501.6,          49.2,         199,2021,7,ALL
+Foxborough - John J Ahern,00990405,MATH,          88,43,          12,6,          76,37,          95,46,          22,11,         205,97,     497.3,          40.1,         199,2021,7,ALL
+Foxborough Regional Charter (District) - Foxborough Regional Charter School,04460550,ELA,          56,39,           8,6,          48,34,          62,44,          24,17,         142,100,     493.0,          36.3,         139,2021,7,ALL
+Foxborough Regional Charter (District) - Foxborough Regional Charter School,04460550,MATH,          42,30,           6,4,          36,25,          75,53,          25,18,         142,100,     488.7,          37.2,         140,2021,7,ALL
+Framingham - Cameron Middle School,01000302,ELA,          55,29,           9,5,          46,24,          79,42,          54,29,         188,96,     486.8,          36.4,         180,2021,7,ALL
+Framingham - Cameron Middle School,01000302,MATH,          47,25,           8,4,          39,21,          99,53,          40,22,         186,95,     486.9,          42.6,         179,2021,7,ALL
+Framingham - Fuller Middle,01000305,ELA,          29,18,           3,2,          26,16,          51,31,          85,52,         165,96,     474.8,          34.5,         105,2021,7,ALL
+Framingham - Fuller Middle,01000305,MATH,          19,11,           1,1,          18,11,          70,42,          79,47,         168,98,     474.7,          32.8,         107,2021,7,ALL
+Framingham - Walsh Middle,01000310,ELA,         104,42,           5,2,          99,40,          89,36,          53,22,         246,93,     491.7,          34.1,         241,2021,7,ALL
+Framingham - Walsh Middle,01000310,MATH,          87,36,           8,3,          79,32,         112,46,          45,18,         244,93,     491.3,          38.6,         239,2021,7,ALL
+Francis W. Parker Charter Essential (District) - Francis W. Parker Charter Essential School,04780505,ELA,          42,62,           6,9,          36,53,          19,28,           7,10,          68,100,     501.9,          38.5,          48,2021,7,ALL
+Francis W. Parker Charter Essential (District) - Francis W. Parker Charter Essential School,04780505,MATH,          27,40,           3,4,          24,35,          35,51,           6,9,          68,100,     497.1,          36.4,          48,2021,7,ALL
+Franklin - Annie Sullivan Middle School,01010040,ELA,          73,58,          12,10,          61,48,          41,33,          12,10,         126,98,     503.0,          35.7,         117,2021,7,ALL
+Franklin - Annie Sullivan Middle School,01010040,MATH,          72,57,          17,13,          55,43,          41,32,          14,11,         127,99,     504.7,          48.3,         116,2021,7,ALL
+Franklin - Horace Mann,01010405,ELA,          61,48,          10,8,          51,40,          55,44,          10,8,         126,98,     500.6,          32.6,         122,2021,7,ALL
+Franklin - Horace Mann,01010405,MATH,          51,40,           8,6,          43,34,          64,51,          11,9,         126,98,     496.8,          25.8,         122,2021,7,ALL
+Franklin - Remington Middle,01010310,ELA,          43,37,           5,4,          38,33,          51,44,          22,19,         116,98,     492.6,          26.7,         114,2021,7,ALL
+Franklin - Remington Middle,01010310,MATH,          53,46,          11,10,          42,37,          48,42,          14,12,         115,97,     497.6,          31.0,         113,2021,7,ALL
+Freetown-Lakeville - Freetown-Lakeville Middle School,06650305,ELA,          89,44,           8,4,          81,40,          80,39,          34,17,         203,92,     494.6,          28.3,         195,2021,7,ALL
+Freetown-Lakeville - Freetown-Lakeville Middle School,06650305,MATH,          77,38,           7,3,          70,35,         109,54,          16,8,         202,91,     495.1,          22.8,         194,2021,7,ALL
+Frontier - Frontier Regional,06700505,ELA,          55,50,           9,8,          46,41,          44,40,          12,11,         111,97,     499.0,          35.4,         107,2021,7,ALL
+Frontier - Frontier Regional,06700505,MATH,          47,43,           7,6,          40,36,          53,48,          10,9,         110,96,     498.0,          39.6,         106,2021,7,ALL
+Gardner - Gardner Middle School,01030405,ELA,          43,28,           1,1,          42,28,          73,48,          35,23,         151,88,     486.9,          36.8,         138,2021,7,ALL
+Gardner - Gardner Middle School,01030405,MATH,          30,20,           1,1,          29,19,          79,53,          41,27,         150,88,     482.0,          33.5,         137,2021,7,ALL
+Gateway - Gateway Regional Middle School,06720405,ELA,          24,36,           1,1,          23,34,          30,45,          13,19,          67,100,     489.7,          26.8,          66,2021,7,ALL
+Gateway - Gateway Regional Middle School,06720405,MATH,          18,27,           5,7,          13,19,          36,54,          13,19,          67,100,     489.1,          30.7,          65,2021,7,ALL
+Georgetown - Georgetown Middle School,01050305,ELA,          62,53,          10,9,          52,45,          48,41,           6,5,         116,100,     502.7,          33.1,         114,2021,7,ALL
+Georgetown - Georgetown Middle School,01050305,MATH,          51,45,           7,6,          44,39,          55,49,           7,6,         113,97,     496.5,          32.6,         110,2021,7,ALL
+Gill-Montague - Great Falls Middle,06740310,ELA,          20,38,           1,2,          19,36,          18,34,          15,28,          53,65,     488.4,          34.9,          51,2021,7,ALL
+Gill-Montague - Great Falls Middle,06740310,MATH,          10,23,           1,2,           9,20,          23,52,          11,25,          44,54,     483.6,          39.4,          42,2021,7,ALL
+Global Learning Charter Public (District) - Global Learning Charter Public School,04960305,ELA,          21,24,           1,1,          20,23,          55,63,          11,13,          87,96,     489.0,          24.4,          85,2021,7,ALL
+Global Learning Charter Public (District) - Global Learning Charter Public School,04960305,MATH,          13,15,           0,0,          13,15,          59,68,          15,17,          87,96,     484.8,          24.9,          85,2021,7,ALL
+Gloucester - Ralph B O'Maley Middle,01070305,ELA,          78,40,          15,8,          63,33,          85,44,          30,16,         193,99,     496.5,          32.7,         185,2021,7,ALL
+Gloucester - Ralph B O'Maley Middle,01070305,MATH,          59,30,          14,7,          45,23,          96,49,          39,20,         194,100,     490.9,          28.8,         186,2021,7,ALL
+Grafton - Grafton Middle,01100305,ELA,         131,57,          21,9,         110,48,          84,37,          15,7,         230,96,     504.3,          44.1,         225,2021,7,ALL
+Grafton - Grafton Middle,01100305,MATH,         109,47,          21,9,          88,38,         105,46,          16,7,         230,96,     500.4,          40.7,         225,2021,7,ALL
+Granby - Granby Jr Sr High School,01110505,ELA,          13,27,           0,0,          13,27,          28,58,           7,15,          48,100,     489.6,          23.2,          48,2021,7,ALL
+Granby - Granby Jr Sr High School,01110505,MATH,           8,17,           0,0,           8,17,          35,73,           5,10,          48,100,     486.7,          28.0,          48,2021,7,ALL
+Greater Commonwealth Virtual District - Greater Commonwealth Virtual School,39010900,ELA,          38,38,           0,0,          38,38,          46,46,          15,15,          99,88,     492.2,          35.7,          73,2021,7,ALL
+Greater Commonwealth Virtual District - Greater Commonwealth Virtual School,39010900,MATH,          21,20,           3,3,          18,17,          61,59,          21,20,         103,92,     487.0,          41.9,          77,2021,7,ALL
+Greenfield - Greenfield Middle,01140305,ELA,          29,41,           1,1,          28,39,          18,25,          24,34,          71,61,     486.7,          33.2,          68,2021,7,ALL
+Greenfield - Greenfield Middle,01140305,MATH,          16,22,           4,6,          12,17,          36,50,          20,28,          72,62,     483.9,          35.5,          69,2021,7,ALL
+Groton-Dunstable - Groton Dunstable Regional Middle,06730305,ELA,         110,66,          15,9,          95,57,          46,28,          10,6,         166,98,     506.9,          43.4,         158,2021,7,ALL
+Groton-Dunstable - Groton Dunstable Regional Middle,06730305,MATH,          92,58,          18,11,          74,46,          62,39,           6,4,         160,95,     505.5,          46.7,         152,2021,7,ALL
+Hadley - Hopkins Academy,01170505,ELA,          23,59,           5,13,          18,46,          16,41,           0,0,          39,95,     503.8,          56.2,          38,2021,7,ALL
+Hadley - Hopkins Academy,01170505,MATH,          13,33,           2,5,          11,28,          23,58,           4,10,          40,98,     492.9,          36.6,          39,2021,7,ALL
+Hamilton-Wenham - Miles River Middle,06750310,ELA,          83,72,          20,17,          63,55,          31,27,           1,1,         115,98,     511.0,          50.9,         109,2021,7,ALL
+Hamilton-Wenham - Miles River Middle,06750310,MATH,          64,56,          10,9,          54,47,          48,42,           3,3,         115,98,     504.0,          47.7,         109,2021,7,ALL
+Hampden Charter School of Science East (District) - Hampden Charter School of Science East,04990305,ELA,          36,44,           4,5,          32,39,          31,38,          15,18,          82,96,     492.3,          34.2,          73,2021,7,ALL
+Hampden Charter School of Science East (District) - Hampden Charter School of Science East,04990305,MATH,          30,36,           1,1,          29,35,          42,50,          12,14,          84,99,     490.1,          31.7,          75,2021,7,ALL
+Hampden Charter School of Science West (District) - Hampden Charter School of Science West,35160305,ELA,          31,43,           4,6,          27,38,          23,32,          18,25,          72,100,     491.6,          30.7,          64,2021,7,ALL
+Hampden Charter School of Science West (District) - Hampden Charter School of Science West,35160305,MATH,          23,32,           4,6,          19,26,          36,50,          13,18,          72,100,     490.5,          27.8,          64,2021,7,ALL
+Hampden-Wilbraham - Green Meadows Elementary,06800005,ELA,           6,40,           3,20,           3,20,           5,33,           4,27,          15,100,     497.7,,          15,2021,7,ALL
+Hampden-Wilbraham - Green Meadows Elementary,06800005,MATH,           5,33,           1,7,           4,27,           8,53,           2,13,          15,100,     491.4,,          15,2021,7,ALL
+Hampden-Wilbraham - Wilbraham Middle,06800310,ELA,         100,52,          16,8,          84,43,          75,39,          19,10,         194,98,     501.0,          46.1,         186,2021,7,ALL
+Hampden-Wilbraham - Wilbraham Middle,06800310,MATH,          66,34,           4,2,          62,32,         111,58,          15,8,         192,97,     495.3,          38.5,         184,2021,7,ALL
+Hampshire - Hampshire Regional High,06830505,ELA,          52,44,           4,3,          48,40,          51,43,          16,13,         119,92,     494.1,          29.3,         114,2021,7,ALL
+Hampshire - Hampshire Regional High,06830505,MATH,          43,36,           3,3,          40,33,          62,52,          15,13,         120,93,     492.2,          35.4,         115,2021,7,ALL
+Hanover - Hanover Middle,01220305,ELA,         112,62,          17,9,          95,52,          55,30,          14,8,         181,99,     503.1,          44.5,         173,2021,7,ALL
+Hanover - Hanover Middle,01220305,MATH,         104,58,          25,14,          79,44,          68,38,           8,4,         180,99,     505.5,          49.6,         172,2021,7,ALL
+Harvard - Bromfield,01250505,ELA,          61,74,           7,9,          54,66,          18,22,           3,4,          82,95,     511.3,          35.4,          78,2021,7,ALL
+Harvard - Bromfield,01250505,MATH,          54,66,           9,11,          45,55,          24,29,           4,5,          82,95,     508.2,          37.8,          78,2021,7,ALL
+Hatfield - Smith Academy,01270505,ELA,          11,39,           0,0,          11,39,          12,43,           5,18,          28,85,     492.2,          19.5,          23,2021,7,ALL
+Hatfield - Smith Academy,01270505,MATH,           5,18,           0,0,           5,18,          19,68,           4,14,          28,85,     488.1,          27.7,          23,2021,7,ALL
+Haverhill - Caleb Dustin Hunking School,01280030,ELA,          57,36,           6,4,          51,32,          70,45,          30,19,         157,93,     492.5,          39.1,         139,2021,7,ALL
+Haverhill - Caleb Dustin Hunking School,01280030,MATH,          42,26,           4,2,          38,23,          92,57,          28,17,         162,96,     489.9,          41.8,         144,2021,7,ALL
+Haverhill - Consentino Middle School,01280100,ELA,          58,32,           7,4,          51,28,          71,39,          52,29,         181,88,     487.2,          38.5,         170,2021,7,ALL
+Haverhill - Consentino Middle School,01280100,MATH,          42,22,           6,3,          36,19,          94,49,          54,28,         190,92,     482.6,          35.6,         177,2021,7,ALL
+Haverhill - Dr Paul Nettle,01280050,ELA,          23,19,           0,0,          23,19,          47,39,          51,42,         121,88,     478.5,          24.9,         104,2021,7,ALL
+Haverhill - Dr Paul Nettle,01280050,MATH,          17,14,           0,0,          17,14,          53,43,          52,43,         122,89,     475.4,          32.9,         104,2021,7,ALL
+Haverhill - John G Whittier,01280085,ELA,          47,36,           0,0,          47,36,          54,42,          29,22,         130,95,     487.2,          32.6,         127,2021,7,ALL
+Haverhill - John G Whittier,01280085,MATH,          27,21,           2,2,          25,19,          68,52,          35,27,         130,95,     482.6,          36.9,         127,2021,7,ALL
+Helen Y. Davis Leadership Academy Charter Public (District) - Helen Y. Davis Leadership Academy Charter Public School,04190305,ELA,          11,17,           0,0,          11,17,          26,41,          26,41,          63,80,     479.0,          26.2,          50,2021,7,ALL
+Helen Y. Davis Leadership Academy Charter Public (District) - Helen Y. Davis Leadership Academy Charter Public School,04190305,MATH,           8,12,           0,0,           8,12,          41,60,          19,28,          68,86,     478.7,          32.1,          55,2021,7,ALL
+Hill View Montessori Charter Public (District) - Hill View Montessori Charter Public School,04550050,ELA,          14,44,           0,0,          14,44,          14,44,           4,13,          32,97,     494.6,          40.5,          30,2021,7,ALL
+Hill View Montessori Charter Public (District) - Hill View Montessori Charter Public School,04550050,MATH,           5,16,           0,0,           5,16,          19,59,           8,25,          32,97,     480.9,          33.8,          30,2021,7,ALL
+Hilltown Cooperative Charter Public (District) - Hilltown Cooperative Charter Public School,04500105,ELA,          18,64,           3,11,          15,54,           8,29,           2,7,          28,90,     505.4,          48.2,          25,2021,7,ALL
+Hilltown Cooperative Charter Public (District) - Hilltown Cooperative Charter Public School,04500105,MATH,          12,44,           3,11,           9,33,          13,48,           2,7,          27,87,     502.1,          49.9,          26,2021,7,ALL
+Hingham - Hingham Middle School,01310410,ELA,         236,75,          73,23,         163,52,          68,22,          10,3,         314,96,     514.6,          51.6,         299,2021,7,ALL
+Hingham - Hingham Middle School,01310410,MATH,         190,60,          42,13,         148,47,         109,35,          16,5,         315,97,     507.4,          33.7,         300,2021,7,ALL
+Holbrook - Holbrook Middle High School,01330505,ELA,          37,40,           5,5,          32,35,          38,41,          17,18,          92,97,     494.2,          27.7,          87,2021,7,ALL
+Holbrook - Holbrook Middle High School,01330505,MATH,          30,32,           2,2,          28,30,          50,54,          13,14,          93,98,     490.2,          31.5,          88,2021,7,ALL
+Holliston - Robert H. Adams Middle School,01360305,ELA,         134,62,           3,1,         131,60,          67,31,          16,7,         217,99,     502.1,          46.5,         210,2021,7,ALL
+Holliston - Robert H. Adams Middle School,01360305,MATH,         113,52,          15,7,          98,45,          83,38,          21,10,         217,99,     501.2,          49.5,         208,2021,7,ALL
+Holyoke - Holyoke STEM Academy,01370320,ELA,           5,10,           0,0,           5,10,          22,42,          25,48,          52,95,     473.6,          28.7,          45,2021,7,ALL
+Holyoke - Holyoke STEM Academy,01370320,MATH,           3,6,           0,0,           3,6,          21,42,          26,52,          50,91,     469.2,          24.9,          43,2021,7,ALL
+Holyoke - Lt Clayre Sullivan Elementary,01370055,ELA,           5,9,           0,0,           5,9,          20,36,          31,55,          56,97,     472.4,          19.4,          48,2021,7,ALL
+Holyoke - Lt Clayre Sullivan Elementary,01370055,MATH,           4,7,           0,0,           4,7,          26,46,          26,46,          56,97,     473.9,          23.1,          48,2021,7,ALL
+Holyoke - Lt Elmer J McMahon Elementary,01370015,ELA,           4,10,           0,0,           4,10,          23,56,          14,34,          41,98,     477.6,          37.2,          39,2021,7,ALL
+Holyoke - Lt Elmer J McMahon Elementary,01370015,MATH,           1,2,           0,0,           1,2,          26,63,          14,34,          41,98,     474.3,          42.3,          39,2021,7,ALL
+Holyoke - Maurice A Donahue Elementary,01370060,ELA,           6,15,           0,0,           6,15,          16,39,          19,46,          41,98,     474.4,          35.5,          37,2021,7,ALL
+Holyoke - Maurice A Donahue Elementary,01370060,MATH,           0,0,           0,0,           0,0,          23,55,          19,45,          42,100,     469.7,          40.2,          39,2021,7,ALL
+Holyoke - Veritas Prep Holyoke,01370075,ELA,           6,6,           0,0,           6,6,          37,35,          64,60,         107,96,     469.3,          26.3,         102,2021,7,ALL
+Holyoke - Veritas Prep Holyoke,01370075,MATH,          10,9,           0,0,          10,9,          44,40,          55,50,         109,97,     469.3,          35.7,         104,2021,7,ALL
+Holyoke - William R. Peck School,01370030,ELA,           2,4,           0,0,           2,4,          21,39,          31,57,          54,100,     469.5,          26.5,          49,2021,7,ALL
+Holyoke - William R. Peck School,01370030,MATH,           2,4,           0,0,           2,4,          18,36,          30,60,          50,93,     466.6,          35.8,          44,2021,7,ALL
+Holyoke Community Charter (District) - Holyoke Community Charter School,04530005,ELA,          14,20,           0,0,          14,20,          36,51,          21,30,          71,100,     482.3,          30.2,          69,2021,7,ALL
+Holyoke Community Charter (District) - Holyoke Community Charter School,04530005,MATH,           9,13,           0,0,           9,13,          45,63,          17,24,          71,100,     481.0,          36.8,          69,2021,7,ALL
+Hoosac Valley Regional - Hoosac Valley Middle School,06030315,ELA,          26,26,           0,0,          26,26,          49,49,          24,24,          99,98,     486.2,          29.9,          96,2021,7,ALL
+Hoosac Valley Regional - Hoosac Valley Middle School,06030315,MATH,           7,7,           0,0,           7,7,          60,60,          33,33,         100,99,     478.1,          29.7,          97,2021,7,ALL
+Hopedale - Hopedale Jr Sr High,01380505,ELA,          51,59,           5,6,          46,53,          28,32,           8,9,          87,97,     500.9,          30.2,          82,2021,7,ALL
+Hopedale - Hopedale Jr Sr High,01380505,MATH,          44,50,           7,8,          37,42,          36,41,           8,9,          88,98,     499.5,          32.1,          83,2021,7,ALL
+Hopkinton - Hopkinton Middle School,01390305,ELA,         222,77,          50,17,         172,59,          54,19,          14,5,         290,99,     512.7,          43.3,         276,2021,7,ALL
+Hopkinton - Hopkinton Middle School,01390305,MATH,         228,79,          85,29,         143,49,          53,18,           9,3,         290,99,     518.3,          57.6,         274,2021,7,ALL
+Hudson - David J. Quinn Middle School,01410410,ELA,          72,37,           5,3,          67,34,          82,42,          41,21,         195,100,     490.3,          31.3,         175,2021,7,ALL
+Hudson - David J. Quinn Middle School,01410410,MATH,          63,32,           5,3,          58,30,          99,51,          33,17,         195,100,     492.3,          47.5,         174,2021,7,ALL
+Hull - Memorial Middle,01420305,ELA,          22,39,           0,0,          22,39,          25,44,          10,18,          57,93,     492.2,          39.9,          57,2021,7,ALL
+Hull - Memorial Middle,01420305,MATH,          15,26,           3,5,          12,21,          35,61,           7,12,          57,93,     489.8,          44.1,          57,2021,7,ALL
+Innovation Academy Charter (District) - Innovation Academy Charter School,04350305,ELA,          54,55,          10,10,          44,44,          41,41,           4,4,          99,97,     502.6,          40.7,          95,2021,7,ALL
+Innovation Academy Charter (District) - Innovation Academy Charter School,04350305,MATH,          38,38,           3,3,          35,35,          50,51,          11,11,          99,97,     494.6,          34.0,          95,2021,7,ALL
+Ipswich - Ipswich Middle School,01440305,ELA,          69,57,          13,11,          56,46,          36,30,          17,14,         122,100,     499.8,          34.1,         118,2021,7,ALL
+Ipswich - Ipswich Middle School,01440305,MATH,          57,47,           8,7,          49,40,          57,47,           8,7,         122,100,     501.7,          39.3,         118,2021,7,ALL
+KIPP Academy Boston Charter School (District) - KIPP Academy Boston Charter School,04630205,ELA,          12,21,           0,0,          12,21,          27,47,          18,32,          57,95,     482.6,          34.4,          50,2021,7,ALL
+KIPP Academy Boston Charter School (District) - KIPP Academy Boston Charter School,04630205,MATH,          11,20,           0,0,          11,20,          23,42,          21,38,          55,92,     481.0,          40.6,          48,2021,7,ALL
+KIPP Academy Lynn Charter (District) - KIPP Academy Lynn Charter School,04290010,ELA,          14,30,           0,0,          14,30,          21,46,          11,24,          46,37,     487.8,          27.3,          44,2021,7,ALL
+KIPP Academy Lynn Charter (District) - KIPP Academy Lynn Charter School,04290010,MATH,          20,44,           1,2,          19,42,          18,40,           7,16,          45,37,     492.6,          27.9,          44,2021,7,ALL
+King Philip - King Philip Middle School,06900510,ELA,         241,64,          57,15,         184,49,         104,28,          30,8,         375,99,     506.6,          50.3,         367,2021,7,ALL
+King Philip - King Philip Middle School,06900510,MATH,         174,47,          22,6,         152,41,         175,47,          22,6,         371,98,     500.0,          39.3,         363,2021,7,ALL
+Lawrence - Alexander B Bruce,01490015,ELA,          10,12,           2,2,           8,9,          36,42,          40,47,          86,93,     473.1,          34.9,          73,2021,7,ALL
+Lawrence - Alexander B Bruce,01490015,MATH,          11,13,           0,0,          11,13,          33,39,          41,48,          85,92,     473.0,          41.5,          74,2021,7,ALL
+Lawrence - Arlington Middle School,01490017,ELA,          24,17,           1,1,          23,16,          44,31,          72,51,         140,99,     473.8,          28.1,         122,2021,7,ALL
+Lawrence - Arlington Middle School,01490017,MATH,          15,11,           0,0,          15,11,          74,52,          52,37,         141,100,     474.1,          28.5,         123,2021,7,ALL
+Lawrence - Emily G Wetherbee,01490080,ELA,          12,18,           1,1,          11,16,          29,43,          27,40,          68,99,     479.4,          29.8,          58,2021,7,ALL
+Lawrence - Emily G Wetherbee,01490080,MATH,          15,22,           0,0,          15,22,          31,45,          23,33,          69,100,     480.8,          26.5,          59,2021,7,ALL
+Lawrence - Frost Middle School,01490525,ELA,          32,25,           1,1,          31,24,          47,37,          48,38,         127,98,     480.8,          25.4,         112,2021,7,ALL
+Lawrence - Frost Middle School,01490525,MATH,          29,23,           5,4,          24,19,          56,44,          42,33,         127,98,     481.9,          35.7,         112,2021,7,ALL
+Lawrence - Guilmette Middle School,01490025,ELA,          19,15,           0,0,          19,15,          51,39,          61,47,         131,100,     475.2,          26.7,         116,2021,7,ALL
+Lawrence - Guilmette Middle School,01490025,MATH,           9,7,           0,0,           9,7,          64,49,          58,44,         131,100,     472.6,          20.7,         116,2021,7,ALL
+Lawrence - Leonard Middle School,01490090,ELA,          28,27,           6,6,          22,21,          40,38,          37,35,         105,98,     484.8,          37.0,          93,2021,7,ALL
+Lawrence - Leonard Middle School,01490090,MATH,          16,16,           1,1,          15,15,          52,50,          35,34,         103,96,     478.0,          36.5,          92,2021,7,ALL
+Lawrence - Oliver Middle School,01490049,ELA,          13,14,           0,0,          13,14,          32,34,          50,53,          95,98,     471.6,          30.3,          77,2021,7,ALL
+Lawrence - Oliver Middle School,01490049,MATH,           7,7,           0,0,           7,7,          46,47,          44,45,          97,100,     472.4,          31.1,          78,2021,7,ALL
+Lawrence - Parthum Middle School,01490027,ELA,          25,16,           1,1,          24,15,          68,43,          65,41,         158,99,     477.7,          30.3,         146,2021,7,ALL
+Lawrence - Parthum Middle School,01490027,MATH,          24,15,           0,0,          24,15,          76,48,          59,37,         159,100,     477.6,          31.7,         147,2021,7,ALL
+Lawrence - Spark Academy,01490085,ELA,          23,15,           0,0,          23,15,          55,35,          78,50,         156,99,     474.1,          28.5,         134,2021,7,ALL
+Lawrence - Spark Academy,01490085,MATH,          18,11,           3,2,          15,9,          77,49,          63,40,         158,100,     476.3,          37.1,         135,2021,7,ALL
+Lawrence Family Development Charter (District) - Lawrence Family Development Charter School,04540205,ELA,          35,47,           4,5,          31,42,          30,41,           9,12,          74,100,     498.8,          35.7,          74,2021,7,ALL
+Lawrence Family Development Charter (District) - Lawrence Family Development Charter School,04540205,MATH,          28,38,           5,7,          23,31,          43,58,           3,4,          74,100,     498.0,          27.3,          74,2021,7,ALL
+Learning First Charter Public School (District) - Learning First Charter Public School,04860105,ELA,          15,22,           1,1,          14,21,          30,44,          23,34,          68,99,     482.3,          30.5,          65,2021,7,ALL
+Learning First Charter Public School (District) - Learning First Charter Public School,04860105,MATH,          11,16,           0,0,          11,16,          41,60,          16,24,          68,99,     481.6,          41.0,          65,2021,7,ALL
+Lee - Lee Middle/High School,01500505,ELA,          19,49,           2,5,          17,44,          17,44,           3,8,          39,98,     499.7,          49.4,          38,2021,7,ALL
+Lee - Lee Middle/High School,01500505,MATH,          14,36,           0,0,          14,36,          15,38,          10,26,          39,98,     490.7,          35.3,          38,2021,7,ALL
+Leicester - Leicester Middle,01510015,ELA,          49,39,           3,2,          46,36,          51,40,          27,21,         127,99,     492.2,          38.7,         121,2021,7,ALL
+Leicester - Leicester Middle,01510015,MATH,          46,37,           6,5,          40,32,          66,52,          14,11,         126,99,     494.4,          51.9,         120,2021,7,ALL
+Lenox - Lenox Memorial High,01520505,ELA,          39,68,           9,16,          30,53,          17,30,           1,2,          57,95,     509.1,          41.4,          52,2021,7,ALL
+Lenox - Lenox Memorial High,01520505,MATH,          37,66,           8,14,          29,52,          19,34,           0,0,          56,93,     510.5,          36.4,          52,2021,7,ALL
+Leominster - Samoset School,01530045,ELA,          50,32,           2,1,          48,31,          76,49,          30,19,         156,97,     489.4,          32.7,         146,2021,7,ALL
+Leominster - Samoset School,01530045,MATH,          28,18,           2,1,          26,17,          96,62,          31,20,         155,96,     485.1,          18.2,         144,2021,7,ALL
+Leominster - Sky View Middle School,01530320,ELA,          89,32,           9,3,          80,29,         123,44,          67,24,         279,97,     488.9,          32.7,         261,2021,7,ALL
+Leominster - Sky View Middle School,01530320,MATH,          67,24,           8,3,          59,21,         142,52,          66,24,         275,96,     486.5,          27.7,         258,2021,7,ALL
+Lexington - Jonas Clarke Middle,01550305,ELA,         209,75,          42,15,         167,60,          56,20,          13,5,         278,95,     512.7,          49.6,         249,2021,7,ALL
+Lexington - Jonas Clarke Middle,01550305,MATH,         201,73,          92,33,         109,39,          65,23,          11,4,         277,95,     517.3,          53.1,         248,2021,7,ALL
+Lexington - Wm Diamond Middle,01550310,ELA,         214,76,          50,18,         164,58,          52,18,          16,6,         282,96,     512.1,          48.5,         247,2021,7,ALL
+Lexington - Wm Diamond Middle,01550310,MATH,         225,80,          89,32,         136,48,          47,17,          10,4,         282,96,     518.4,          49.3,         248,2021,7,ALL
+Libertas Academy Charter School (District) - Libertas Academy Charter School,35140305,ELA,          19,23,           2,2,          17,21,          39,48,          24,29,          82,98,     483.7,          41.5,          66,2021,7,ALL
+Libertas Academy Charter School (District) - Libertas Academy Charter School,35140305,MATH,          13,16,           2,2,          11,14,          42,52,          26,32,          81,96,     480.1,          41.3,          66,2021,7,ALL
+Lincoln - Hanscom Middle,01570305,ELA,          26,63,           2,5,          24,59,          12,29,           3,7,          41,100,     502.9,          60.3,          21,2021,7,ALL
+Lincoln - Hanscom Middle,01570305,MATH,          12,32,           2,5,          10,26,          24,63,           2,5,          38,100,     494.9,,          19,2021,7,ALL
+Lincoln - Lincoln School,01570025,ELA,          47,84,          11,20,          36,64,           9,16,           0,0,          56,95,     516.2,          60.8,          54,2021,7,ALL
+Lincoln - Lincoln School,01570025,MATH,          40,70,          11,19,          29,51,          15,26,           2,4,          57,97,     510.6,          42.7,          55,2021,7,ALL
+Littleton - Littleton Middle School,01580305,ELA,          65,52,           5,4,          60,48,          51,41,           9,7,         125,99,     498.9,          37.4,         121,2021,7,ALL
+Littleton - Littleton Middle School,01580305,MATH,          57,45,          17,13,          40,32,          59,47,          10,8,         126,100,     500.1,          45.9,         123,2021,7,ALL
+Longmeadow - Glenbrook Middle,01590017,ELA,          62,57,           6,6,          56,52,          35,32,          11,10,         108,100,     501.4,          31.7,         101,2021,7,ALL
+Longmeadow - Glenbrook Middle,01590017,MATH,          53,49,          15,14,          38,35,          48,44,           7,6,         108,100,     502.1,          39.3,         101,2021,7,ALL
+Longmeadow - Williams Middle,01590305,ELA,          69,56,          11,9,          58,47,          39,32,          15,12,         123,97,     502.4,          32.6,         114,2021,7,ALL
+Longmeadow - Williams Middle,01590305,MATH,          73,59,          16,13,          57,46,          47,38,           3,2,         123,97,     506.2,          38.1,         114,2021,7,ALL
+Lowell - B.F. Butler Middle School,01600310,ELA,          29,24,           3,3,          26,22,          57,48,          33,28,         119,89,     483.5,          20.3,         117,2021,7,ALL
+Lowell - B.F. Butler Middle School,01600310,MATH,          27,23,           4,3,          23,19,          58,49,          34,29,         119,89,     485.1,          29.2,         117,2021,7,ALL
+Lowell - Bartlett Community Partnership,01600090,ELA,          11,22,           3,6,           8,16,          16,31,          24,47,          51,95,     484.0,          41.5,          43,2021,7,ALL
+Lowell - Bartlett Community Partnership,01600090,MATH,           9,18,           0,0,           9,18,          24,47,          18,35,          51,95,     482.4,          35.7,          43,2021,7,ALL
+Lowell - Dr An Wang School,01600345,ELA,          61,38,           5,3,          56,35,          54,34,          46,29,         161,97,     489.0,          30.3,         156,2021,7,ALL
+Lowell - Dr An Wang School,01600345,MATH,          48,30,           6,4,          42,26,          73,46,          39,24,         160,96,     487.1,          39.7,         154,2021,7,ALL
+Lowell - Henry J Robinson Middle,01600330,ELA,          21,14,           3,2,          18,12,          57,38,          71,48,         149,94,     475.4,          31.2,         125,2021,7,ALL
+Lowell - Henry J Robinson Middle,01600330,MATH,           5,3,           2,1,           3,2,          81,54,          63,42,         149,93,     472.8,          31.4,         124,2021,7,ALL
+Lowell - James S Daley Middle School,01600315,ELA,          57,38,           4,3,          53,35,          59,39,          36,24,         152,92,     492.2,          30.1,         137,2021,7,ALL
+Lowell - James S Daley Middle School,01600315,MATH,          67,44,           8,5,          59,39,          58,38,          28,18,         153,92,     496.3,          28.7,         139,2021,7,ALL
+Lowell - James Sullivan Middle School,01600340,ELA,          30,23,           0,0,          30,23,          48,37,          51,40,         129,82,     479.0,          26.5,         108,2021,7,ALL
+Lowell - James Sullivan Middle School,01600340,MATH,          16,13,           1,1,          15,12,          73,57,          38,30,         127,81,     479.0,          34.4,         106,2021,7,ALL
+Lowell - Kathryn P. Stoklosa Middle School,01600360,ELA,          22,14,           1,1,          21,13,          70,44,          67,42,         159,98,     476.1,          22.7,         150,2021,7,ALL
+Lowell - Kathryn P. Stoklosa Middle School,01600360,MATH,          34,22,           4,3,          30,19,          79,50,          44,28,         157,96,     483.0,          35.8,         149,2021,7,ALL
+Lowell - Pyne Arts,01600018,ELA,          22,55,           3,8,          19,48,          14,35,           4,10,          40,73,     501.0,          40.4,          37,2021,7,ALL
+Lowell - Pyne Arts,01600018,MATH,          13,33,           2,5,          11,28,          22,56,           4,10,          39,71,     496.1,          33.1,          36,2021,7,ALL
+Lowell - Rogers STEM Academy,01600005,ELA,           7,12,           0,0,           7,12,          29,48,          24,40,          60,58,     476.7,          27.8,          52,2021,7,ALL
+Lowell - Rogers STEM Academy,01600005,MATH,          10,17,           0,0,          10,17,          31,53,          17,29,          58,57,     479.2,          29.5,          50,2021,7,ALL
+Lowell Community Charter Public (District) - Lowell Community Charter Public School,04560050,ELA,          40,53,           9,12,          31,41,          29,38,           7,9,          76,100,     499.6,          39.0,          76,2021,7,ALL
+Lowell Community Charter Public (District) - Lowell Community Charter Public School,04560050,MATH,          23,30,           5,7,          18,24,          40,53,          13,17,          76,100,     492.0,          25.1,          76,2021,7,ALL
+Ludlow - Paul R Baird Middle,01610305,ELA,          45,24,           1,1,          44,24,         109,58,          33,18,         187,96,     487.8,          31.7,         181,2021,7,ALL
+Ludlow - Paul R Baird Middle,01610305,MATH,          52,28,           7,4,          45,24,         104,56,          31,17,         187,96,     490.1,          42.7,         182,2021,7,ALL
+Lunenburg - Lunenburg Middle School,01620305,ELA,          61,47,           9,7,          52,40,          60,46,          10,8,         131,99,     498.5,          49.5,         130,2021,7,ALL
+Lunenburg - Lunenburg Middle School,01620305,MATH,          45,34,           4,3,          41,31,          74,56,          12,9,         131,99,     493.9,          40.6,         130,2021,7,ALL
+Lynn - Breed Middle School,01630405,ELA,          96,21,           4,1,          92,20,         208,45,         163,35,         467,97,     481.0,          28.1,         422,2021,7,ALL
+Lynn - Breed Middle School,01630405,MATH,          60,13,           2,0,          58,13,         238,53,         153,34,         451,94,     478.3,          25.1,         412,2021,7,ALL
+Lynn - Pickering Middle,01630420,ELA,          75,38,           4,2,          71,36,          79,40,          42,21,         196,93,     490.7,          29.8,         187,2021,7,ALL
+Lynn - Pickering Middle,01630420,MATH,          57,29,           7,4,          50,25,          92,46,          49,25,         198,93,     486.8,          23.2,         187,2021,7,ALL
+Lynn - Thurgood Marshall Mid,01630305,ELA,          78,18,           4,1,          74,17,         189,44,         162,38,         429,92,     480.2,          27.6,         378,2021,7,ALL
+Lynn - Thurgood Marshall Mid,01630305,MATH,          72,17,           5,1,          67,15,         219,50,         145,33,         436,93,     479.3,          26.7,         383,2021,7,ALL
+Lynnfield - Lynnfield Middle School,01640405,ELA,         110,71,          29,19,          81,52,          42,27,           4,3,         156,98,     511.9,          40.3,         151,2021,7,ALL
+Lynnfield - Lynnfield Middle School,01640405,MATH,         113,72,          32,21,          81,52,          38,24,           5,3,         156,98,     512.1,          43.0,         151,2021,7,ALL
+Malden - Beebe,01650003,ELA,          35,36,           7,7,          28,29,          40,41,          22,23,          97,100,     491.9,          41.5,          82,2021,7,ALL
+Malden - Beebe,01650003,MATH,          33,34,           4,4,          29,30,          49,51,          15,15,          97,100,     491.4,          50.4,          82,2021,7,ALL
+Malden - Ferryway,01650013,ELA,          46,51,           5,6,          41,46,          36,40,           8,9,          90,100,     499.5,          56.4,          82,2021,7,ALL
+Malden - Ferryway,01650013,MATH,          28,31,           1,1,          27,30,          48,53,          14,16,          90,100,     489.4,          46.9,          83,2021,7,ALL
+Malden - Forestdale,01650027,ELA,          22,34,           1,2,          21,32,          22,34,          21,32,          65,92,     486.5,          35.7,          61,2021,7,ALL
+Malden - Forestdale,01650027,MATH,           7,11,           0,0,           7,11,          41,63,          17,26,          65,92,     481.1,          31.1,          63,2021,7,ALL
+Malden - Linden,01650047,ELA,          46,58,          10,13,          36,46,          25,32,           8,10,          79,98,     502.6,          51.7,          78,2021,7,ALL
+Malden - Linden,01650047,MATH,          32,40,           5,6,          27,34,          36,45,          12,15,          80,99,     492.4,          37.6,          79,2021,7,ALL
+Malden - Salemwood,01650057,ELA,          39,35,           0,0,          39,35,          41,37,          31,28,         111,99,     486.6,          28.9,          97,2021,7,ALL
+Malden - Salemwood,01650057,MATH,          27,24,           0,0,          27,24,          60,54,          24,22,         111,100,     484.1,          24.7,          97,2021,7,ALL
+Manchester Essex Regional - Manchester Essex Regional Middle School,06980030,ELA,          53,49,           5,5,          48,44,          41,38,          14,13,         108,99,     496.8,          24.7,         107,2021,7,ALL
+Manchester Essex Regional - Manchester Essex Regional Middle School,06980030,MATH,          51,48,           4,4,          47,44,          50,47,           6,6,         107,98,     498.4,          29.7,         106,2021,7,ALL
+Mansfield - Harold L Qualters Middle,01670035,ELA,         165,60,          18,7,         147,53,          88,32,          22,8,         275,99,     501.5,          42.8,         270,2021,7,ALL
+Mansfield - Harold L Qualters Middle,01670035,MATH,         141,51,          28,10,         113,41,         108,39,          25,9,         274,99,     500.8,          45.2,         268,2021,7,ALL
+Marblehead - Marblehead Veterans Middle School,01680300,ELA,         123,64,          26,13,          97,50,          58,30,          12,6,         193,99,     507.8,          52.6,         183,2021,7,ALL
+Marblehead - Marblehead Veterans Middle School,01680300,MATH,         103,53,          20,10,          83,43,          75,39,          15,8,         193,99,     502.9,          41.5,         184,2021,7,ALL
+Marblehead Community Charter Public (District) - Marblehead Community Charter Public School,04640305,ELA,          20,63,           3,9,          17,53,           9,28,           3,9,          32,100,     502.8,          42.5,          28,2021,7,ALL
+Marblehead Community Charter Public (District) - Marblehead Community Charter Public School,04640305,MATH,          18,56,           5,16,          13,41,          10,31,           4,13,          32,100,     504.7,          49.7,          28,2021,7,ALL
+Marlborough - 1 LT Charles W. Whitcomb School,01700045,ELA,          83,24,           6,2,          77,22,         157,46,         105,30,         345,99,     484.0,          29.9,         305,2021,7,ALL
+Marlborough - 1 LT Charles W. Whitcomb School,01700045,MATH,          69,20,           8,2,          61,18,         192,56,          84,24,         345,99,     483.4,          33.0,         306,2021,7,ALL
+Marshfield - Furnace Brook Middle,01710310,ELA,         153,61,          37,15,         116,46,          84,33,          15,6,         252,90,     506.2,          34.7,         244,2021,7,ALL
+Marshfield - Furnace Brook Middle,01710310,MATH,         119,47,           9,4,         110,44,         106,42,          26,10,         251,89,     497.0,          26.3,         243,2021,7,ALL
+Martha's Vineyard Charter Public School (District) - Martha's Vineyard Charter Public School,04660550,ELA,           5,45,           2,18,           3,27,           5,45,           1,9,          11,79,     499.9,,          10,2021,7,ALL
+Martha's Vineyard Charter Public School (District) - Martha's Vineyard Charter Public School,04660550,MATH,           6,50,           2,17,           4,33,           5,42,           1,8,          12,86,     497.8,,          11,2021,7,ALL
+Masconomet - Masconomet Regional Middle School,07050405,ELA,         181,59,          17,6,         164,53,         110,36,          18,6,         309,99,     502.5,          39.0,         299,2021,7,ALL
+Masconomet - Masconomet Regional Middle School,07050405,MATH,         156,51,          29,9,         127,41,         132,43,          20,6,         308,99,     501.4,          37.9,         297,2021,7,ALL
+Mashpee - Mashpee Middle School,01720020,ELA,          37,35,           6,6,          31,30,          47,45,          21,20,         105,96,     490.2,          31.3,         102,2021,7,ALL
+Mashpee - Mashpee Middle School,01720020,MATH,          34,32,           3,3,          31,30,          51,49,          20,19,         105,96,     488.9,          35.5,         102,2021,7,ALL
+Match Charter Public School (District) - Match Charter Public School,04690505,ELA,          22,26,           3,3,          19,22,          41,48,          23,27,          86,90,     486.3,          25.2,          78,2021,7,ALL
+Match Charter Public School (District) - Match Charter Public School,04690505,MATH,          13,14,           0,0,          13,14,          50,56,          27,30,          90,94,     480.2,          31.8,          81,2021,7,ALL
+Maynard - Fowler School,01740305,ELA,          41,47,           2,2,          39,44,          35,40,          12,14,          88,97,     495.4,          45.1,          86,2021,7,ALL
+Maynard - Fowler School,01740305,MATH,          24,27,           1,1,          23,26,          47,53,          17,19,          88,97,     488.7,          41.0,          86,2021,7,ALL
+Medfield - Thomas Blake Middle,01750305,ELA,         124,69,          25,14,          99,55,          52,29,           5,3,         181,98,     508.9,          46.4,         171,2021,7,ALL
+Medfield - Thomas Blake Middle,01750305,MATH,          99,55,          11,6,          88,49,          74,41,           7,4,         180,97,     503.8,          34.3,         170,2021,7,ALL
+Medford - John J. McGlynn Middle School,01760320,ELA,          46,32,           6,4,          40,27,          59,40,          41,28,         146,97,     487.9,          37.6,         118,2021,7,ALL
+Medford - John J. McGlynn Middle School,01760320,MATH,          31,21,           8,5,          23,16,          78,53,          38,26,         147,97,     483.4,          42.8,         121,2021,7,ALL
+Medford - Madeleine Dugger Andrews,01760315,ELA,          49,46,           7,7,          42,40,          38,36,          19,18,         106,70,     496.5,          39.9,         106,2021,7,ALL
+Medford - Madeleine Dugger Andrews,01760315,MATH,          29,28,           4,4,          25,24,          65,62,          11,10,         105,70,     491.5,          40.4,         105,2021,7,ALL
+Medway - Medway Middle,01770305,ELA,          96,55,          15,9,          81,47,          61,35,          17,10,         174,98,     501.3,          36.7,         170,2021,7,ALL
+Medway - Medway Middle,01770305,MATH,          61,35,          10,6,          51,29,         102,59,          11,6,         174,98,     494.8,          26.7,         170,2021,7,ALL
+Melrose - Melrose Middle,01780305,ELA,         147,57,          27,10,         120,46,          85,33,          27,10,         259,96,     502.3,          34.1,         251,2021,7,ALL
+Melrose - Melrose Middle,01780305,MATH,         137,53,          30,12,         107,41,          99,38,          22,9,         258,95,     501.8,          35.9,         250,2021,7,ALL
+Mendon-Upton - Miscoe Hill School,07100015,ELA,         100,53,          19,10,          81,43,          69,36,          21,11,         190,98,     501.4,          38.7,         181,2021,7,ALL
+Mendon-Upton - Miscoe Hill School,07100015,MATH,          51,27,           4,2,          47,25,         110,58,          29,15,         190,98,     489.9,          30.0,         181,2021,7,ALL
+Methuen - Comprehensive Grammar School,01810050,ELA,          58,48,           6,5,          52,43,          34,28,          30,25,         122,100,     492.9,          41.7,         110,2021,7,ALL
+Methuen - Comprehensive Grammar School,01810050,MATH,          37,31,           8,7,          29,24,          51,43,          32,27,         120,98,     487.8,          39.8,         108,2021,7,ALL
+Methuen - Donald P Timony Grammar,01810060,ELA,          53,38,           3,2,          50,36,          57,41,          28,20,         138,97,     491.4,          41.1,         133,2021,7,ALL
+Methuen - Donald P Timony Grammar,01810060,MATH,          34,24,           3,2,          31,22,          82,59,          23,17,         139,98,     487.5,          35.2,         134,2021,7,ALL
+Methuen - Marsh Grammar School,01810030,ELA,          49,39,           8,6,          41,33,          54,43,          22,18,         125,98,     495.3,          30.1,         114,2021,7,ALL
+Methuen - Marsh Grammar School,01810030,MATH,          44,35,          11,9,          33,26,          58,46,          24,19,         126,99,     493.8,          38.7,         115,2021,7,ALL
+Methuen - Tenney Grammar School,01810055,ELA,          39,30,           1,1,          38,29,          61,46,          32,24,         132,98,     486.1,          30.4,         128,2021,7,ALL
+Methuen - Tenney Grammar School,01810055,MATH,          31,23,           4,3,          27,20,          62,47,          39,30,         132,97,     484.9,          29.3,         128,2021,7,ALL
+Middleborough - John T. Nichols Middle,01820305,ELA,          88,37,           5,2,          83,35,         101,43,          48,20,         237,93,     492.3,          32.5,         227,2021,7,ALL
+Middleborough - John T. Nichols Middle,01820305,MATH,          86,37,           3,1,          83,36,         123,53,          24,10,         233,92,     495.7,          30.3,         223,2021,7,ALL
+Milford - Stacy Middle,01850305,ELA,         125,39,          12,4,         113,35,         127,39,          71,22,         323,97,     492.1,          41.3,         285,2021,7,ALL
+Milford - Stacy Middle,01850305,MATH,          52,16,           3,1,          49,15,         198,61,          75,23,         325,98,     483.1,          25.7,         288,2021,7,ALL
+Millbury - Millbury Junior/Senior High,01860505,ELA,          47,41,           4,3,          43,37,          47,41,          22,19,         116,97,     492.4,          27.7,         116,2021,7,ALL
+Millbury - Millbury Junior/Senior High,01860505,MATH,          37,32,           3,3,          34,29,          63,54,          16,14,         116,97,     490.7,          35.1,         116,2021,7,ALL
+Millis - Millis Middle,01870020,ELA,          50,67,          11,15,          39,52,          18,24,           7,9,          75,99,     507.1,          46.1,          73,2021,7,ALL
+Millis - Millis Middle,01870020,MATH,          38,51,           5,7,          33,44,          36,48,           1,1,          75,99,     500.9,          31.5,          73,2021,7,ALL
+Milton - Charles S Pierce Middle,01890410,ELA,         162,54,          24,8,         138,46,         120,40,          18,6,         300,99,     502.1,          35.2,         281,2021,7,ALL
+Milton - Charles S Pierce Middle,01890410,MATH,         137,46,          19,6,         118,39,         138,46,          26,9,         301,99,     498.7,          24.1,         282,2021,7,ALL
+Mohawk Trail - Mohawk Trail Regional School,07170505,ELA,          14,34,           1,2,          13,32,          17,41,          10,24,          41,77,     487.8,          38.1,          40,2021,7,ALL
+Mohawk Trail - Mohawk Trail Regional School,07170505,MATH,           5,12,           0,0,           5,12,          26,63,          10,24,          41,77,     479.3,          26.3,          39,2021,7,ALL
+Monomoy Regional School District - Monomoy Regional Middle School,07120315,ELA,          58,44,           6,5,          52,39,          53,40,          21,16,         132,96,     495.8,          36.7,         126,2021,7,ALL
+Monomoy Regional School District - Monomoy Regional Middle School,07120315,MATH,          55,43,           6,5,          49,38,          65,50,           9,7,         129,94,     498.8,          46.5,         123,2021,7,ALL
+Monson - Monson High School,01910505,ELA,          21,33,           2,3,          19,30,          28,44,          15,23,          64,94,     491.9,          32.9,          59,2021,7,ALL
+Monson - Monson High School,01910505,MATH,          13,20,           0,0,          13,20,          43,67,           8,13,          64,94,     486.5,          39.3,          59,2021,7,ALL
+Mount Greylock - Mt Greylock Regional High,07150505,ELA,          46,62,          16,22,          30,41,          19,26,           9,12,          74,100,     507.7,          53.9,          63,2021,7,ALL
+Mount Greylock - Mt Greylock Regional High,07150505,MATH,          38,51,          12,16,          26,35,          30,41,           6,8,          74,100,     504.4,          49.4,          64,2021,7,ALL
+Mystic Valley Regional Charter (District) - Mystic Valley Regional Charter School,04700105,ELA,         119,82,          26,18,          93,64,          22,15,           4,3,         145,99,     513.8,          62.1,         135,2021,7,ALL
+Mystic Valley Regional Charter (District) - Mystic Valley Regional Charter School,04700105,MATH,          96,66,          21,14,          75,52,          45,31,           4,3,         145,99,     509.2,          54.8,         135,2021,7,ALL
+Nantucket - Cyrus Peirce,01970010,ELA,          62,43,          13,9,          49,34,          56,39,          26,18,         144,99,     495.3,          42.6,         118,2021,7,ALL
+Nantucket - Cyrus Peirce,01970010,MATH,          42,30,           3,2,          39,27,          76,54,          24,17,         142,98,     489.5,          40.1,         116,2021,7,ALL
+Narragansett - Narragansett Middle,07200305,ELA,          44,38,           4,3,          40,34,          49,42,          24,21,         117,99,     491.1,          34.8,         114,2021,7,ALL
+Narragansett - Narragansett Middle,07200305,MATH,          28,24,           3,3,          25,21,          72,62,          17,15,         117,99,     489.4,          40.9,         114,2021,7,ALL
+Nashoba - Florence Sawyer School,07250025,ELA,          52,68,           7,9,          45,59,          22,29,           2,3,          76,100,     507.8,          35.5,          76,2021,7,ALL
+Nashoba - Florence Sawyer School,07250025,MATH,          50,66,          10,13,          40,53,          25,33,           1,1,          76,100,     508.5,          35.3,          76,2021,7,ALL
+Nashoba - Hale,07250310,ELA,          63,71,          14,16,          49,55,          25,28,           1,1,          89,97,     511.5,          44.1,          89,2021,7,ALL
+Nashoba - Hale,07250310,MATH,          61,69,          13,15,          48,55,          24,27,           3,3,          88,96,     511.3,          46.7,          88,2021,7,ALL
+Nashoba - Luther Burbank Middle School,07250305,ELA,          45,62,           8,11,          37,51,          20,27,           8,11,          73,100,     503.9,          41.6,          66,2021,7,ALL
+Nashoba - Luther Burbank Middle School,07250305,MATH,          33,45,           6,8,          27,37,          35,48,           5,7,          73,100,     500.8,          56.5,          66,2021,7,ALL
+Natick - J F Kennedy Middle School,01980305,ELA,          94,51,           9,5,          85,46,          65,35,          25,14,         184,99,     499.0,          41.2,         180,2021,7,ALL
+Natick - J F Kennedy Middle School,01980305,MATH,          94,51,          36,20,          58,32,          83,45,           7,4,         184,99,     506.5,          56.6,         180,2021,7,ALL
+Natick - Wilson Middle,01980310,ELA,         117,53,          11,5,         106,48,          83,38,          20,9,         220,100,     501.1,          35.5,         217,2021,7,ALL
+Natick - Wilson Middle,01980310,MATH,         114,52,          26,12,          88,40,          89,41,          16,7,         219,99,     503.1,          41.4,         216,2021,7,ALL
+Nauset - Nauset Regional Middle,06600305,ELA,          67,43,          10,6,          57,36,          70,45,          20,13,         157,85,     497.5,          37.1,         146,2021,7,ALL
+Nauset - Nauset Regional Middle,06600305,MATH,          54,34,           4,3,          50,32,          85,54,          18,11,         157,85,     493.3,          35.8,         146,2021,7,ALL
+Needham - Pollard Middle,01990405,ELA,         313,72,          64,15,         249,57,          99,23,          24,6,         436,96,     510.9,          49.4,         403,2021,7,ALL
+Needham - Pollard Middle,01990405,MATH,         318,73,          89,20,         229,53,          96,22,          21,5,         435,95,     512.7,          57.1,         402,2021,7,ALL
+Neighborhood House Charter (District) - Neighborhood House Charter School,04440205,ELA,          20,25,           1,1,          19,23,          37,46,          24,30,          81,96,     485.1,          35.4,          71,2021,7,ALL
+Neighborhood House Charter (District) - Neighborhood House Charter School,04440205,MATH,          11,13,           0,0,          11,13,          49,60,          22,27,          82,98,     481.6,          42.7,          72,2021,7,ALL
+New Bedford - Keith Middle School,02010405,ELA,          67,23,           6,2,          61,21,         132,46,          88,31,         287,86,     482.9,          28.3,         257,2021,7,ALL
+New Bedford - Keith Middle School,02010405,MATH,          42,15,           6,2,          36,13,         149,54,          83,30,         274,82,     480.9,          27.5,         247,2021,7,ALL
+New Bedford - Normandin Middle School,02010410,ELA,          85,26,           4,1,          81,25,         135,41,         106,33,         326,89,     484.3,          26.2,         300,2021,7,ALL
+New Bedford - Normandin Middle School,02010410,MATH,          45,14,           3,1,          42,13,         189,57,          95,29,         329,90,     479.7,          23.0,         303,2021,7,ALL
+New Bedford - Roosevelt Middle School,02010415,ELA,          49,20,           5,2,          44,18,          94,38,         105,42,         248,93,     478.5,          24.2,         220,2021,7,ALL
+New Bedford - Roosevelt Middle School,02010415,MATH,          25,10,           1,0,          24,10,         118,48,         104,42,         247,92,     475.6,          18.0,         216,2021,7,ALL
+New Bedford - Trinity Day Academy,02010510,ELA,           0,0,           0,0,           0,0,           5,42,           7,58,          12,92,     462.5,,          11,2021,7,ALL
+New Bedford - Trinity Day Academy,02010510,MATH,           0,0,           0,0,           0,0,           7,58,           5,42,          12,92,     467.8,,          11,2021,7,ALL
+New Heights Charter School of Brockton (District) - New Heights Charter School of Brockton,35130305,ELA,          40,35,           2,2,          38,33,          51,44,          24,21,         115,96,     489.2,          34.8,          91,2021,7,ALL
+New Heights Charter School of Brockton (District) - New Heights Charter School of Brockton,35130305,MATH,          20,17,           2,2,          18,15,          76,63,          24,20,         120,100,     483.2,          29.9,          97,2021,7,ALL
+Newburyport - Rupert A Nock Middle,02040305,ELA,          73,46,           7,4,          66,41,          68,43,          19,12,         160,98,     497.4,          36.9,         153,2021,7,ALL
+Newburyport - Rupert A Nock Middle,02040305,MATH,          71,44,           6,4,          65,41,          71,44,          18,11,         160,98,     495.8,          45.5,         153,2021,7,ALL
+Newton - Bigelow Middle,02070305,ELA,          88,58,          11,7,          77,51,          54,36,           9,6,         151,97,     503.9,          42.3,         145,2021,7,ALL
+Newton - Bigelow Middle,02070305,MATH,          74,49,          21,14,          53,35,          68,45,           9,6,         151,97,     504.2,          43.6,         145,2021,7,ALL
+Newton - Charles E Brown Middle,02070310,ELA,         180,77,          35,15,         145,62,          48,20,           7,3,         235,95,     512.5,          51.9,         220,2021,7,ALL
+Newton - Charles E Brown Middle,02070310,MATH,         161,69,          49,21,         112,48,          65,28,           8,3,         234,95,     511.8,          51.4,         218,2021,7,ALL
+Newton - F A Day Middle,02070315,ELA,         202,70,          44,15,         158,55,          71,25,          14,5,         287,96,     510.5,          46.6,         274,2021,7,ALL
+Newton - F A Day Middle,02070315,MATH,         180,63,          58,20,         122,42,         100,35,           8,3,         288,96,     509.4,          44.8,         275,2021,7,ALL
+Newton - Oak Hill Middle,02070320,ELA,         144,65,          17,8,         127,57,          61,27,          18,8,         223,97,     503.7,          40.1,         207,2021,7,ALL
+Newton - Oak Hill Middle,02070320,MATH,         162,72,          44,20,         118,53,          48,21,          14,6,         224,98,     511.0,          56.9,         208,2021,7,ALL
+North Adams - Drury High,02090505,ELA,          14,19,           3,4,          11,15,          26,35,          34,46,          74,88,     478.4,          19.4,          72,2021,7,ALL
+North Adams - Drury High,02090505,MATH,          13,18,           0,0,          13,18,          36,49,          25,34,          74,88,     480.0,          26.5,          72,2021,7,ALL
+North Andover - North Andover Middle,02110305,ELA,         195,54,          28,8,         167,46,         123,34,          42,12,         360,98,     501.8,          41.8,         339,2021,7,ALL
+North Andover - North Andover Middle,02110305,MATH,         165,46,          30,8,         135,38,         173,48,          22,6,         360,98,     501.0,          46.1,         339,2021,7,ALL
+North Attleborough - North Attleborough Middle,02120305,ELA,         180,57,          28,9,         152,48,         104,33,          31,10,         315,99,     502.3,          38.2,         297,2021,7,ALL
+North Attleborough - North Attleborough Middle,02120305,MATH,         116,37,          14,4,         102,32,         171,54,          27,9,         314,99,     496.0,          29.5,         296,2021,7,ALL
+North Brookfield - North Brookfield High,02150505,ELA,           8,23,           0,0,           8,23,          17,49,          10,29,          35,85,     483.5,          22.7,          35,2021,7,ALL
+North Brookfield - North Brookfield High,02150505,MATH,           6,18,           0,0,           6,18,          19,56,           9,26,          34,83,     479.8,          36.1,          33,2021,7,ALL
+North Middlesex - Hawthorne Brook,07350030,ELA,          65,51,           8,6,          57,45,          44,34,          19,15,         128,98,     497.9,          36.8,         125,2021,7,ALL
+North Middlesex - Hawthorne Brook,07350030,MATH,          47,37,           3,2,          44,34,          64,50,          17,13,         128,98,     492.8,          41.7,         125,2021,7,ALL
+North Middlesex - Nissitissit Middle School,07350310,ELA,          53,48,           3,3,          50,45,          44,40,          13,12,         110,97,     495.6,          30.6,         108,2021,7,ALL
+North Middlesex - Nissitissit Middle School,07350310,MATH,          38,35,           1,1,          37,34,          58,53,          14,13,         110,97,     491.9,          31.8,         108,2021,7,ALL
+North Reading - North Reading Middle,02170305,ELA,         124,66,          33,18,          91,49,          54,29,           9,5,         187,99,     511.0,          40.7,         180,2021,7,ALL
+North Reading - North Reading Middle,02170305,MATH,         101,54,          17,9,          84,45,          77,41,           8,4,         186,98,     503.7,          30.6,         179,2021,7,ALL
+Northampton - John F Kennedy Middle School,02100410,ELA,          55,45,           7,6,          48,39,          39,32,          29,24,         123,64,     492.4,          28.3,         105,2021,7,ALL
+Northampton - John F Kennedy Middle School,02100410,MATH,          47,37,           4,3,          43,34,          56,44,          23,18,         126,65,     492.1,          33.2,         107,2021,7,ALL
+Northborough - Robert E. Melican Middle School,02130305,ELA,          89,58,           9,6,          80,52,          59,38,           6,4,         154,98,     503.6,          33.0,         151,2021,7,ALL
+Northborough - Robert E. Melican Middle School,02130305,MATH,          84,54,          21,14,          63,41,          67,43,           4,3,         155,98,     504.6,          34.0,         152,2021,7,ALL
+Northbridge - Northbridge Middle,02140305,ELA,          65,36,           3,2,          62,34,          72,39,          46,25,         183,99,     489.9,          32.3,         170,2021,7,ALL
+Northbridge - Northbridge Middle,02140305,MATH,          38,21,           3,2,          35,19,         104,57,          40,22,         182,98,     484.8,          31.9,         171,2021,7,ALL
+Norton - Norton Middle,02180305,ELA,          75,44,           4,2,          71,42,          77,45,          19,11,         171,84,     496.3,          35.6,         166,2021,7,ALL
+Norton - Norton Middle,02180305,MATH,          48,28,           3,2,          45,26,         103,61,          19,11,         170,84,     491.4,          32.1,         165,2021,7,ALL
+Norwell - Norwell Middle School,02190405,ELA,         117,73,          29,18,          88,55,          39,24,           5,3,         161,99,     511.9,          47.8,         157,2021,7,ALL
+Norwell - Norwell Middle School,02190405,MATH,         105,65,          12,7,          93,58,          51,32,           5,3,         161,99,     506.1,          46.1,         156,2021,7,ALL
+Norwood - Dr. Philip O. Coakley Middle School,02200305,ELA,          70,34,          10,5,          60,29,          80,39,          54,26,         204,99,     489.3,          28.1,         186,2021,7,ALL
+Norwood - Dr. Philip O. Coakley Middle School,02200305,MATH,          52,26,           4,2,          48,24,          97,48,          54,27,         203,99,     486.2,          18.5,         183,2021,7,ALL
+Oak Bluffs - Oak Bluffs Elementary,02210005,ELA,          20,41,           1,2,          19,39,          22,45,           7,14,          49,100,     494.8,          29.8,          44,2021,7,ALL
+Oak Bluffs - Oak Bluffs Elementary,02210005,MATH,          16,33,           3,6,          13,27,          25,51,           8,16,          49,100,     492.8,          40.2,          44,2021,7,ALL
+Old Rochester - Old Rochester Regional Jr High,07400405,ELA,          92,47,          18,9,          74,38,          76,39,          28,14,         196,99,     498.2,          35.3,         182,2021,7,ALL
+Old Rochester - Old Rochester Regional Jr High,07400405,MATH,          63,32,           9,5,          54,28,         115,59,          18,9,         196,99,     493.6,          24.7,         182,2021,7,ALL
+Oxford - Oxford Middle,02260405,ELA,          37,33,           0,0,          37,33,          53,48,          21,19,         111,97,     491.4,          30.1,         106,2021,7,ALL
+Oxford - Oxford Middle,02260405,MATH,          35,32,           4,4,          31,28,          66,59,          10,9,         111,97,     492.2,          43.3,         106,2021,7,ALL
+Palmer - Palmer High,02270505,ELA,          34,34,           4,4,          30,30,          44,44,          22,22,         100,97,     489.8,          34.4,          96,2021,7,ALL
+Palmer - Palmer High,02270505,MATH,          16,16,           0,0,          16,16,          64,63,          21,21,         101,98,     484.2,          49.0,          97,2021,7,ALL
+Peabody - J Henry Higgins Middle,02290305,ELA,         172,36,          13,3,         159,33,         212,44,          94,20,         478,98,     491.4,          37.5,         452,2021,7,ALL
+Peabody - J Henry Higgins Middle,02290305,MATH,         142,30,          16,3,         126,27,         256,54,          77,16,         475,98,     488.8,          38.4,         450,2021,7,ALL
+Pembroke - Pembroke Community Middle School,02310305,ELA,          93,49,          13,7,          80,42,          82,43,          15,8,         190,95,     499.4,          36.0,         185,2021,7,ALL
+Pembroke - Pembroke Community Middle School,02310305,MATH,          87,46,          10,5,          77,40,          91,48,          13,7,         191,96,     498.9,          30.1,         186,2021,7,ALL
+Pentucket - Pentucket Regional Middle,07450405,ELA,          59,41,           2,1,          57,40,          66,46,          18,13,         143,99,     494.3,          35.2,         140,2021,7,ALL
+Pentucket - Pentucket Regional Middle,07450405,MATH,          64,45,           7,5,          57,40,          70,49,           9,6,         143,99,     498.0,          49.8,         140,2021,7,ALL
+Pioneer Charter School of Science (District) - Pioneer Charter School of Science,04940205,ELA,          40,63,           7,11,          33,52,          18,28,           6,9,          64,100,     503.8,          44.3,          63,2021,7,ALL
+Pioneer Charter School of Science (District) - Pioneer Charter School of Science,04940205,MATH,          32,50,           4,6,          28,44,          26,41,           6,9,          64,100,     499.6,          41.8,          63,2021,7,ALL
+Pioneer Charter School of Science II (District) - Pioneer Charter School of Science II,35060505,ELA,          47,72,           9,14,          38,58,           9,14,           9,14,          65,100,     507.3,          53.4,          47,2021,7,ALL
+Pioneer Charter School of Science II (District) - Pioneer Charter School of Science II,35060505,MATH,          40,62,           7,11,          33,51,          19,29,           6,9,          65,100,     505.0,          49.8,          47,2021,7,ALL
+Pioneer Valley - Pioneer Valley Regional,07500505,ELA,          24,51,           3,6,          21,45,          15,32,           8,17,          47,82,     494.3,          40.7,          41,2021,7,ALL
+Pioneer Valley - Pioneer Valley Regional,07500505,MATH,          12,26,           0,0,          12,26,          23,49,          12,26,          47,82,     484.1,          28.1,          41,2021,7,ALL
+Pioneer Valley Chinese Immersion Charter (District) - Pioneer Valley Chinese Immersion Charter School,04970205,ELA,          32,60,           9,17,          23,43,          17,32,           4,8,          53,98,     506.5,          52.1,          42,2021,7,ALL
+Pioneer Valley Chinese Immersion Charter (District) - Pioneer Valley Chinese Immersion Charter School,04970205,MATH,          29,55,          12,23,          17,32,          19,36,           5,9,          53,98,     507.1,          51.4,          42,2021,7,ALL
+Pioneer Valley Performing Arts Charter Public (District) - Pioneer Valley Performing Arts Charter Public School,04790505,ELA,          24,43,           1,2,          23,41,          28,50,           4,7,          56,80,     495.3,          32.5,          40,2021,7,ALL
+Pioneer Valley Performing Arts Charter Public (District) - Pioneer Valley Performing Arts Charter Public School,04790505,MATH,          10,18,           1,2,           9,16,          36,64,          10,18,          56,80,     485.2,          26.3,          41,2021,7,ALL
+Pittsfield - John T Reid Middle,02360305,ELA,          20,13,           0,0,          20,13,          74,49,          56,37,         150,92,     479.3,          23.6,         133,2021,7,ALL
+Pittsfield - John T Reid Middle,02360305,MATH,          16,11,           1,1,          15,10,          72,49,          59,40,         147,90,     475.6,          23.9,         132,2021,7,ALL
+Pittsfield - Theodore Herberg Middle,02360310,ELA,          56,36,           7,4,          49,31,          65,41,          36,23,         157,93,     490.8,          34.7,         146,2021,7,ALL
+Pittsfield - Theodore Herberg Middle,02360310,MATH,          26,17,           1,1,          25,16,          86,55,          44,28,         156,93,     480.9,          17.0,         142,2021,7,ALL
+Plymouth - Plymouth Commun Intermediate,02390405,ELA,         137,46,          28,9,         109,37,         104,35,          57,19,         298,96,     496.6,          42.7,         273,2021,7,ALL
+Plymouth - Plymouth Commun Intermediate,02390405,MATH,          63,21,           2,1,          61,21,         178,60,          55,19,         296,95,     485.8,          30.5,         272,2021,7,ALL
+Plymouth - Plymouth South Middle,02390305,ELA,          92,46,          10,5,          82,41,          84,42,          22,11,         198,97,     498.2,          38.3,         191,2021,7,ALL
+Plymouth - Plymouth South Middle,02390305,MATH,          70,36,           2,1,          68,35,         109,56,          17,9,         196,96,     493.9,          38.2,         189,2021,7,ALL
+Prospect Hill Academy Charter (District) - Prospect Hill Academy Charter School,04870550,ELA,          32,37,           0,0,          32,37,          34,40,          20,23,          86,87,     490.6,          35.3,          84,2021,7,ALL
+Prospect Hill Academy Charter (District) - Prospect Hill Academy Charter School,04870550,MATH,          12,14,           0,0,          12,14,          47,53,          29,33,          88,89,     479.0,          23.1,          86,2021,7,ALL
+Provincetown - Provincetown Schools,02420020,ELA,          10,56,           4,22,           6,33,           6,33,           2,11,          18,100,     505.2,,          15,2021,7,ALL
+Provincetown - Provincetown Schools,02420020,MATH,           6,33,           1,6,           5,28,           6,33,           6,33,          18,100,     486.5,,          15,2021,7,ALL
+Quabbin - Quabbin Regional Middle School,07530405,ELA,          56,33,           3,2,          53,31,          82,49,          31,18,         169,97,     490.2,          29.6,         165,2021,7,ALL
+Quabbin - Quabbin Regional Middle School,07530405,MATH,          61,36,           1,1,          60,36,          90,53,          18,11,         169,97,     492.7,          33.7,         166,2021,7,ALL
+Quaboag Regional - Quaboag Regional Middle Innovation School,07780305,ELA,          48,57,           3,4,          45,54,          31,37,           5,6,          84,99,     501.6,          48.1,          81,2021,7,ALL
+Quaboag Regional - Quaboag Regional Middle Innovation School,07780305,MATH,          27,33,           0,0,          27,33,          47,58,           7,9,          81,95,     492.9,          32.2,          78,2021,7,ALL
+Quincy - Atlantic Middle,02430305,ELA,          77,46,          12,7,          65,39,          64,38,          27,16,         168,98,     496.5,          37.2,         147,2021,7,ALL
+Quincy - Atlantic Middle,02430305,MATH,          85,51,          15,9,          70,42,          62,37,          21,13,         168,98,     499.3,          40.4,         147,2021,7,ALL
+Quincy - Broad Meadows Middle,02430310,ELA,          34,34,           2,2,          32,32,          44,44,          23,23,         101,98,     487.7,          20.9,          99,2021,7,ALL
+Quincy - Broad Meadows Middle,02430310,MATH,          24,24,           2,2,          22,22,          49,49,          28,28,         101,98,     483.4,          22.6,          99,2021,7,ALL
+Quincy - Central Middle,02430315,ELA,         139,65,          36,17,         103,48,          55,26,          19,9,         213,100,     508.1,          38.2,         202,2021,7,ALL
+Quincy - Central Middle,02430315,MATH,         118,55,          49,23,          69,32,          73,34,          22,10,         213,100,     506.1,          36.8,         202,2021,7,ALL
+Quincy - Point Webster Middle,02430325,ELA,          35,43,           3,4,          32,39,          32,39,          15,18,          82,98,     493.4,          28.5,          72,2021,7,ALL
+Quincy - Point Webster Middle,02430325,MATH,          31,38,           7,9,          24,29,          36,44,          15,18,          82,98,     491.0,          35.4,          72,2021,7,ALL
+Quincy - South West Middle School,02430320,ELA,          30,28,           1,1,          29,27,          36,33,          42,39,         108,98,     486.0,          24.8,          83,2021,7,ALL
+Quincy - South West Middle School,02430320,MATH,          15,14,           0,0,          15,14,          59,54,          35,32,         109,99,     484.8,          27.8,          83,2021,7,ALL
+Ralph C Mahar - Ralph C Mahar Regional,07550505,ELA,          31,25,           2,2,          29,23,          59,47,          35,28,         125,98,     484.8,          38.9,         114,2021,7,ALL
+Ralph C Mahar - Ralph C Mahar Regional,07550505,MATH,          18,14,           0,0,          18,14,          76,60,          32,25,         126,98,     480.8,          45.3,         113,2021,7,ALL
+Randolph - Randolph Community Middle,02440410,ELA,          65,30,           6,3,          59,27,         101,46,          54,25,         220,99,     487.5,          34.0,         196,2021,7,ALL
+Randolph - Randolph Community Middle,02440410,MATH,          56,26,           8,4,          48,22,         109,50,          54,25,         219,99,     484.6,          31.3,         197,2021,7,ALL
+Reading - Arthur W Coolidge Middle,02460305,ELA,          76,60,          10,8,          66,52,          37,29,          13,10,         126,96,     502.6,          43.4,         121,2021,7,ALL
+Reading - Arthur W Coolidge Middle,02460305,MATH,          68,54,          14,11,          54,43,          42,33,          16,13,         126,96,     501.6,          37.0,         121,2021,7,ALL
+Reading - Walter S Parker Middle,02460310,ELA,          85,57,          15,10,          70,47,          52,35,          12,8,         149,97,     502.8,          40.7,         146,2021,7,ALL
+Reading - Walter S Parker Middle,02460310,MATH,          63,42,          12,8,          51,34,          73,49,          14,9,         150,97,     498.3,          27.6,         148,2021,7,ALL
+Revere - Garfield Middle School,02480057,ELA,          61,33,           7,4,          54,30,          74,40,          48,26,         183,99,     488.0,          30.4,         165,2021,7,ALL
+Revere - Garfield Middle School,02480057,MATH,          37,20,           1,1,          36,20,          94,51,          52,28,         183,99,     481.6,          24.2,         165,2021,7,ALL
+Revere - Rumney Marsh Academy,02480014,ELA,          64,30,          10,5,          54,26,          99,47,          48,23,         211,99,     488.8,          27.2,         208,2021,7,ALL
+Revere - Rumney Marsh Academy,02480014,MATH,          51,24,           4,2,          47,22,         119,56,          42,20,         212,100,     485.6,          26.8,         208,2021,7,ALL
+Revere - Susan B. Anthony Middle School,02480305,ELA,          57,32,           6,3,          51,28,          70,39,          52,29,         179,99,     486.9,          30.3,         163,2021,7,ALL
+Revere - Susan B. Anthony Middle School,02480305,MATH,          28,16,           0,0,          28,16,          97,54,          53,30,         178,99,     481.5,          22.0,         162,2021,7,ALL
+Richmond - Richmond Consolidated,02490005,ELA,          13,87,           1,7,          12,80,           1,7,           1,7,          15,94,     506.5,,          15,2021,7,ALL
+Richmond - Richmond Consolidated,02490005,MATH,           4,27,           0,0,           4,27,           8,53,           3,20,          15,94,     489.5,,          15,2021,7,ALL
+Rising Tide Charter Public (District) - Rising Tide Charter Public School,04830305,ELA,          42,49,           1,1,          41,48,          34,40,           9,11,          85,94,     497.1,          34.0,          80,2021,7,ALL
+Rising Tide Charter Public (District) - Rising Tide Charter Public School,04830305,MATH,          38,44,           3,3,          35,41,          42,49,           6,7,          86,96,     496.7,          33.8,          81,2021,7,ALL
+River Valley Charter (District) - River Valley Charter School,04820050,ELA,          21,66,           3,9,          18,56,           8,25,           3,9,          32,100,     506.9,          55.4,          27,2021,7,ALL
+River Valley Charter (District) - River Valley Charter School,04820050,MATH,          13,41,           2,6,          11,34,          16,50,           3,9,          32,100,     500.4,          69.3,          27,2021,7,ALL
+Rockland - John W Rogers Middle,02510305,ELA,          85,47,           9,5,          76,42,          65,36,          30,17,         180,99,     495.2,          37.2,         171,2021,7,ALL
+Rockland - John W Rogers Middle,02510305,MATH,          73,41,           6,3,          67,37,          86,48,          21,12,         180,99,     493.3,          34.4,         171,2021,7,ALL
+Rockport - Rockport Middle,02520305,ELA,          24,38,           3,5,          21,33,          32,51,           7,11,          63,97,     494.2,          35.4,          55,2021,7,ALL
+Rockport - Rockport Middle,02520305,MATH,          17,27,           5,8,          12,19,          38,60,           8,13,          63,97,     493.8,          39.8,          56,2021,7,ALL
+Roxbury Preparatory Charter (District) - Roxbury Preparatory Charter School,04840505,ELA,          59,23,           4,2,          55,21,         120,47,          77,30,         256,99,     483.7,          33.5,         222,2021,7,ALL
+Roxbury Preparatory Charter (District) - Roxbury Preparatory Charter School,04840505,MATH,          40,16,           3,1,          37,14,         164,64,          53,21,         257,99,     484.9,          37.6,         223,2021,7,ALL
+Salem - Collins Middle,02580305,ELA,          62,35,           3,2,          59,34,          66,38,          47,27,         175,81,     486.4,          33.2,         164,2021,7,ALL
+Salem - Collins Middle,02580305,MATH,          27,15,           5,3,          22,12,          99,55,          55,30,         181,84,     480.0,          28.4,         168,2021,7,ALL
+Salem - Saltonstall School,02580050,ELA,          19,48,           2,5,          17,43,          10,25,          11,28,          40,91,     493.9,          37.7,          38,2021,7,ALL
+Salem - Saltonstall School,02580050,MATH,          13,32,           2,5,          11,27,          17,41,          11,27,          41,94,     485.7,          39.9,          39,2021,7,ALL
+Salem Academy Charter (District) - Salem Academy Charter School,04850485,ELA,          32,44,           3,4,          29,40,          26,36,          14,19,          72,100,     493.6,          37.3,          70,2021,7,ALL
+Salem Academy Charter (District) - Salem Academy Charter School,04850485,MATH,          19,26,           2,3,          17,24,          43,60,          10,14,          72,100,     490.2,          44.5,          70,2021,7,ALL
+Sandwich - Sandwich STEM Academy,02610305,ELA,          92,46,          12,6,          80,40,          73,37,          33,17,         198,96,     494.7,          37.4,         180,2021,7,ALL
+Sandwich - Sandwich STEM Academy,02610305,MATH,          71,36,           9,5,          62,31,         112,56,          16,8,         199,96,     494.8,          41.2,         184,2021,7,ALL
+Saugus - Saugus Middle School,02620305,ELA,          71,35,           7,3,          64,31,          94,46,          39,19,         204,99,     490.4,          28.1,         189,2021,7,ALL
+Saugus - Saugus Middle School,02620305,MATH,          36,18,           2,1,          34,17,         132,65,          36,18,         204,99,     485.6,          19.9,         188,2021,7,ALL
+Scituate - Gates Middle School,02640305,ELA,         123,63,          22,11,         101,52,          58,30,          13,7,         194,98,     505.9,          32.4,         187,2021,7,ALL
+Scituate - Gates Middle School,02640305,MATH,         115,59,          20,10,          95,48,          70,36,          11,6,         196,99,     504.6,          34.5,         189,2021,7,ALL
+Seekonk - Dr. Kevin M. Hurley Middle School,02650405,ELA,          83,57,          15,10,          68,47,          50,34,          12,8,         145,100,     504.0,          48.7,         130,2021,7,ALL
+Seekonk - Dr. Kevin M. Hurley Middle School,02650405,MATH,          54,38,           1,1,          53,37,          73,51,          15,11,         142,98,     493.2,          27.0,         128,2021,7,ALL
+Sharon - Sharon Middle,02660305,ELA,         183,66,          36,13,         147,53,          82,29,          14,5,         279,99,     508.1,          41.1,         259,2021,7,ALL
+Sharon - Sharon Middle,02660305,MATH,         191,68,          75,27,         116,42,          75,27,          13,5,         279,99,     513.2,          46.2,         258,2021,7,ALL
+Shrewsbury - Oak Middle School,02710030,ELA,         291,60,          39,8,         252,52,         157,32,          41,8,         489,99,     503.5,          34.3,         462,2021,7,ALL
+Shrewsbury - Oak Middle School,02710030,MATH,         292,60,          85,17,         207,42,         170,35,          28,6,         490,99,     506.6,          36.7,         462,2021,7,ALL
+Silver Lake - Silver Lake Regional Middle School,07600405,ELA,         125,50,           9,4,         116,46,          90,36,          37,15,         252,98,     496.0,          39.4,         241,2021,7,ALL
+Silver Lake - Silver Lake Regional Middle School,07600405,MATH,          98,39,           9,4,          89,35,         126,50,          28,11,         252,98,     495.2,          36.5,         241,2021,7,ALL
+Sizer School: A North Central Charter Essential (District) - Sizer School: A North Central Charter Essential School,04740505,ELA,          22,32,           4,6,          18,26,          31,46,          15,22,          68,97,     490.3,          38.7,          54,2021,7,ALL
+Sizer School: A North Central Charter Essential (District) - Sizer School: A North Central Charter Essential School,04740505,MATH,           8,12,           0,0,           8,12,          35,51,          26,38,          69,97,     476.3,          29.0,          56,2021,7,ALL
+Somerset - Somerset Middle School,02730305,ELA,          96,44,           2,1,          94,43,         103,47,          20,9,         219,99,     496.3,          40.1,         207,2021,7,ALL
+Somerset - Somerset Middle School,02730305,MATH,          73,33,           7,3,          66,30,         121,55,          25,11,         219,99,     493.2,          39.6,         206,2021,7,ALL
+Somerville - Albert F. Argenziano School at Lincoln Park,02740087,ELA,          20,49,           2,5,          18,44,          18,44,           3,7,          41,98,     497.2,          33.2,          38,2021,7,ALL
+Somerville - Albert F. Argenziano School at Lincoln Park,02740087,MATH,          15,38,           0,0,          15,38,          19,48,           6,15,          40,95,     491.9,          25.5,          37,2021,7,ALL
+Somerville - Arthur D Healey,02740075,ELA,           7,16,           0,0,           7,16,          22,51,          14,33,          43,93,     480.2,          28.6,          42,2021,7,ALL
+Somerville - Arthur D Healey,02740075,MATH,           7,16,           2,5,           5,12,          23,53,          13,30,          43,93,     480.7,          43.6,          42,2021,7,ALL
+Somerville - E Somerville Community,02740111,ELA,          25,33,           3,4,          22,29,          35,47,          15,20,          75,100,     490.8,          28.7,          73,2021,7,ALL
+Somerville - E Somerville Community,02740111,MATH,          17,23,           1,1,          16,22,          39,53,          18,24,          74,99,     485.2,          20.9,          72,2021,7,ALL
+Somerville - John F Kennedy,02740083,ELA,          29,63,           6,13,          23,50,          11,24,           6,13,          46,96,     506.2,          33.6,          43,2021,7,ALL
+Somerville - John F Kennedy,02740083,MATH,          27,60,           4,9,          23,51,          13,29,           5,11,          45,94,     500.8,          32.1,          42,2021,7,ALL
+Somerville - West Somerville Neighborhood,02740115,ELA,          18,46,           3,8,          15,38,          14,36,           7,18,          39,93,     496.7,          37.2,          37,2021,7,ALL
+Somerville - West Somerville Neighborhood,02740115,MATH,          10,26,           3,8,           7,18,          21,54,           8,21,          39,93,     488.6,          28.0,          38,2021,7,ALL
+Somerville - Winter Hill Community,02740120,ELA,           6,15,           0,0,           6,15,          16,41,          17,44,          39,98,     477.6,          32.5,          26,2021,7,ALL
+Somerville - Winter Hill Community,02740120,MATH,           6,15,           0,0,           6,15,          19,49,          14,36,          39,98,     477.0,          31.7,          27,2021,7,ALL
+South Hadley - Michael E. Smith Middle School,02780305,ELA,          42,40,           3,3,          39,38,          45,43,          17,16,         104,86,     494.1,          35.1,          98,2021,7,ALL
+South Hadley - Michael E. Smith Middle School,02780305,MATH,          41,39,           8,8,          33,31,          42,40,          22,21,         105,87,     492.2,          37.9,          99,2021,7,ALL
+South Shore Charter Public (District) - South Shore Charter Public School,04880550,ELA,          38,48,           3,4,          35,44,          34,43,           8,10,          80,95,     498.2,          39.1,          77,2021,7,ALL
+South Shore Charter Public (District) - South Shore Charter Public School,04880550,MATH,          28,35,           1,1,          27,34,          42,53,          10,13,          80,95,     491.8,          49.4,          77,2021,7,ALL
+Southborough - P Brent Trottier,02760305,ELA,          79,66,           8,7,          71,60,          33,28,           7,6,         119,99,     507.4,          38.3,         114,2021,7,ALL
+Southborough - P Brent Trottier,02760305,MATH,          84,71,          29,24,          55,46,          31,26,           4,3,         119,99,     514.4,          44.0,         114,2021,7,ALL
+Southbridge - Southbridge Middle School,02770315,ELA,          14,11,           0,0,          14,11,          46,35,          70,54,         130,97,     471.7,          23.8,         116,2021,7,ALL
+Southbridge - Southbridge Middle School,02770315,MATH,           3,2,           0,0,           3,2,          63,49,          62,48,         128,96,     470.3,          30.7,         116,2021,7,ALL
+Southern Berkshire - Mt Everett Regional,07650505,ELA,          12,43,           2,7,          10,36,          12,43,           4,14,          28,85,     495.0,          39.2,          26,2021,7,ALL
+Southern Berkshire - Mt Everett Regional,07650505,MATH,           6,21,           2,7,           4,14,          19,68,           3,11,          28,85,     490.8,          33.7,          26,2021,7,ALL
+Southwick-Tolland-Granville Regional School District - Southwick Regional School,07660505,ELA,          53,47,           8,7,          45,40,          45,40,          14,13,         112,94,     496.9,          42.3,         106,2021,7,ALL
+Southwick-Tolland-Granville Regional School District - Southwick Regional School,07660505,MATH,          40,36,           0,0,          40,36,          54,49,          16,15,         110,93,     491.7,          50.2,         104,2021,7,ALL
+Spencer-E Brookfield - Knox Trail Middle School,07670415,ELA,          43,35,           3,2,          40,32,          57,46,          24,19,         124,98,     491.0,          38.4,         117,2021,7,ALL
+Spencer-E Brookfield - Knox Trail Middle School,07670415,MATH,          26,21,           4,3,          22,18,          77,63,          20,16,         123,98,     488.1,          36.2,         116,2021,7,ALL
+Springfield - Alfred G. Zanetti Montessori Magnet School,02810095,ELA,          17,52,           3,9,          14,42,          10,30,           6,18,          33,97,     498.2,          37.6,          33,2021,7,ALL
+Springfield - Alfred G. Zanetti Montessori Magnet School,02810095,MATH,          16,50,           0,0,          16,50,          16,50,           0,0,          32,94,     499.1,          46.2,          32,2021,7,ALL
+Springfield - Chestnut Accelerated Middle School (Talented and Gifted),02810367,ELA,          37,43,           6,7,          31,36,          27,31,          22,26,          86,82,     499.3,          27.7,          72,2021,7,ALL
+Springfield - Chestnut Accelerated Middle School (Talented and Gifted),02810367,MATH,          32,34,           6,6,          26,28,          37,39,          25,27,          94,91,     500.2,          24.5,          72,2021,7,ALL
+Springfield - Conservatory of the Arts,02810475,ELA,           7,29,           1,4,           6,25,           8,33,           9,38,          24,46,     480.8,          22.7,          24,2021,7,ALL
+Springfield - Conservatory of the Arts,02810475,MATH,           1,4,           0,0,           1,4,          16,64,           8,32,          25,48,     475.2,          18.8,          25,2021,7,ALL
+Springfield - Forest Park Middle,02810325,ELA,          19,10,           1,1,          18,10,          63,34,         101,55,         183,95,     472.6,          14.8,         158,2021,7,ALL
+Springfield - Forest Park Middle,02810325,MATH,          23,13,           2,1,          21,11,          96,52,          65,35,         184,96,     477.8,          28.9,         160,2021,7,ALL
+Springfield - Impact Prep at Chestnut,02810366,ELA,          12,22,           2,4,          10,19,          21,39,          21,39,          54,68,     479.0,          26.9,          52,2021,7,ALL
+Springfield - Impact Prep at Chestnut,02810366,MATH,          10,18,           1,2,           9,16,          30,54,          16,29,          56,71,     479.9,          36.9,          53,2021,7,ALL
+Springfield - John F Kennedy Middle,02810328,ELA,          12,8,           0,0,          12,8,          53,36,          84,56,         149,96,     469.6,          18.3,         138,2021,7,ALL
+Springfield - John F Kennedy Middle,02810328,MATH,          11,8,           1,1,          10,7,          68,47,          66,46,         145,93,     472.1,          23.1,         135,2021,7,ALL
+Springfield - John J Duggan Academy,02810320,ELA,          36,25,           5,3,          31,22,          53,37,          54,38,         143,89,     483.9,          32.2,         124,2021,7,ALL
+Springfield - John J Duggan Academy,02810320,MATH,          23,15,           2,1,          21,14,          73,49,          53,36,         149,92,     477.9,          31.9,         130,2021,7,ALL
+Springfield - M Marcus Kiley Middle,02810330,ELA,          14,8,           0,0,          14,8,          66,40,          85,52,         165,69,     471.7,          17.9,         156,2021,7,ALL
+Springfield - M Marcus Kiley Middle,02810330,MATH,          18,10,           1,1,          17,10,          89,50,          70,40,         177,75,     475.2,          27.7,         168,2021,7,ALL
+Springfield - Rise Academy at Van Sickle,02810480,ELA,          11,12,           2,2,           9,10,          36,38,          47,50,          94,90,     475.2,          19.7,          83,2021,7,ALL
+Springfield - Rise Academy at Van Sickle,02810480,MATH,          11,11,           1,1,          10,10,          53,55,          33,34,          97,93,     476.0,          24.7,          86,2021,7,ALL
+Springfield - STEM Middle Academy,02810350,ELA,          19,20,           1,1,          18,19,          45,46,          33,34,          97,98,     482.1,          20.6,          92,2021,7,ALL
+Springfield - STEM Middle Academy,02810350,MATH,          14,15,           1,1,          13,14,          62,65,          20,21,          96,97,     483.6,          29.4,          93,2021,7,ALL
+Springfield - South End Middle School,02810355,ELA,           5,7,           0,0,           5,7,          22,31,          43,61,          70,97,     468.3,          19.3,          61,2021,7,ALL
+Springfield - South End Middle School,02810355,MATH,           3,4,           0,0,           3,4,          28,41,          38,55,          69,96,     468.1,          25.8,          62,2021,7,ALL
+Springfield - Springfield Legacy Academy,02810317,ELA,          10,9,           0,0,          10,9,          34,32,          63,59,         107,75,     468.9,          17.9,          99,2021,7,ALL
+Springfield - Springfield Legacy Academy,02810317,MATH,           4,3,           0,0,           4,3,          55,47,          57,49,         116,81,     469.4,          27.7,         107,2021,7,ALL
+Springfield - Springfield Public Day Middle School,02810345,ELA,           0,0,           0,0,           0,0,           4,36,           7,64,          11,92,     459.7,,          10,2021,7,ALL
+Springfield - Springfield Public Day Middle School,02810345,MATH,           0,0,           0,0,           0,0,           2,18,           9,82,          11,92,     452.4,,          11,2021,7,ALL
+Springfield - The Springfield Renaissance School an Expeditionary Learning School,02810205,ELA,          33,34,           2,2,          31,32,          36,37,          29,30,          98,95,     485.2,          23.8,          95,2021,7,ALL
+Springfield - The Springfield Renaissance School an Expeditionary Learning School,02810205,MATH,          18,19,           2,2,          16,16,          55,57,          24,25,          97,94,     482.2,          25.9,          94,2021,7,ALL
+Springfield - Van Sickle Academy,02810485,ELA,          11,11,           0,0,          11,11,          36,37,          51,52,          98,96,     474.7,          15.6,          84,2021,7,ALL
+Springfield - Van Sickle Academy,02810485,MATH,           6,6,           1,1,           5,5,          43,46,          45,48,          94,92,     475.5,          22.1,          80,2021,7,ALL
+Springfield International Charter (District) - Springfield International Charter School,04410505,ELA,          36,30,           0,0,          36,30,          53,43,          33,27,         122,92,     487.0,          31.1,         114,2021,7,ALL
+Springfield International Charter (District) - Springfield International Charter School,04410505,MATH,          34,28,           2,2,          32,26,          63,52,          25,20,         122,92,     486.5,          44.5,         113,2021,7,ALL
+Stoneham - Stoneham Central Middle School,02840405,ELA,          99,51,          17,9,          82,42,          65,33,          31,16,         195,100,     498.6,          35.8,         182,2021,7,ALL
+Stoneham - Stoneham Central Middle School,02840405,MATH,          62,32,          11,6,          51,26,         115,59,          19,10,         196,100,     494.7,          31.9,         184,2021,7,ALL
+Stoughton - O'Donnell Middle School,02850405,ELA,         102,40,           5,2,          97,38,         113,45,          37,15,         252,98,     493.7,          31.4,         239,2021,7,ALL
+Stoughton - O'Donnell Middle School,02850405,MATH,          64,25,           7,3,          57,23,         144,57,          43,17,         251,97,     488.7,          27.3,         238,2021,7,ALL
+Sudbury - Ephraim Curtis Middle,02880305,ELA,         211,74,          55,19,         156,55,          65,23,          10,3,         286,99,     513.5,          49.2,         277,2021,7,ALL
+Sudbury - Ephraim Curtis Middle,02880305,MATH,         217,76,          59,21,         158,55,          61,21,           8,3,         286,99,     514.6,          45.2,         276,2021,7,ALL
+Sutton - Sutton Middle School,02900305,ELA,          57,69,           8,10,          49,59,          18,22,           8,10,          83,82,     504.2,          44.7,          79,2021,7,ALL
+Sutton - Sutton Middle School,02900305,MATH,          39,49,           3,4,          36,45,          33,41,           8,10,          80,79,     497.6,          34.6,          76,2021,7,ALL
+Swampscott - Swampscott Middle,02910305,ELA,          88,61,          18,12,          70,48,          42,29,          15,10,         145,88,     504.1,          39.7,         143,2021,7,ALL
+Swampscott - Swampscott Middle,02910305,MATH,          71,49,           7,5,          64,44,          58,40,          16,11,         145,88,     498.0,          34.8,         143,2021,7,ALL
+Swansea - Joseph Case Jr High,02920305,ELA,          70,46,           4,3,          66,43,          67,44,          15,10,         152,90,     495.7,          28.6,         144,2021,7,ALL
+Swansea - Joseph Case Jr High,02920305,MATH,          47,31,           9,6,          38,25,          87,56,          20,13,         154,91,     492.9,          30.6,         146,2021,7,ALL
+TEC Connections Academy Commonwealth Virtual School District - TEC Connections Academy Commonwealth Virtual School,39020900,ELA,          91,44,           4,2,          87,42,          78,38,          37,18,         206,83,     494.3,          31.1,         150,2021,7,ALL
+TEC Connections Academy Commonwealth Virtual School District - TEC Connections Academy Commonwealth Virtual School,39020900,MATH,          70,34,          12,6,          58,28,          99,48,          39,19,         208,83,     491.9,          38.3,         151,2021,7,ALL
+Tantasqua - Tantasqua Regional Jr High,07700405,ELA,         150,54,          19,7,         131,47,         102,37,          24,9,         276,96,     501.8,          44.9,         265,2021,7,ALL
+Tantasqua - Tantasqua Regional Jr High,07700405,MATH,         148,54,          26,9,         122,44,         105,38,          22,8,         275,95,     502.8,          44.9,         264,2021,7,ALL
+Taunton - Benjamin Friedman Middle,02930315,ELA,         127,47,          30,11,          97,36,          93,35,          48,18,         268,99,     496.8,          47.0,         257,2021,7,ALL
+Taunton - Benjamin Friedman Middle,02930315,MATH,          67,25,          10,4,          57,21,         159,60,          41,15,         267,99,     489.1,          39.9,         256,2021,7,ALL
+Taunton - John F Parker Middle,02930305,ELA,          34,23,           5,3,          29,20,          62,43,          49,34,         145,96,     482.4,          33.0,         140,2021,7,ALL
+Taunton - John F Parker Middle,02930305,MATH,          26,18,           3,2,          23,16,          76,52,          43,30,         145,96,     480.7,          29.1,         140,2021,7,ALL
+Taunton - Joseph H Martin,02930042,ELA,          69,32,           6,3,          63,29,          92,42,          57,26,         218,99,     487.4,          31.3,         210,2021,7,ALL
+Taunton - Joseph H Martin,02930042,MATH,          32,15,           1,0,          31,14,         129,60,          54,25,         215,97,     480.9,          27.1,         207,2021,7,ALL
+Tewksbury - John W. Wynn Middle,02950305,ELA,         126,50,          22,9,         104,41,         104,41,          23,9,         253,98,     500.3,          45.0,         245,2021,7,ALL
+Tewksbury - John W. Wynn Middle,02950305,MATH,          71,28,           3,1,          68,27,         142,56,          39,15,         252,98,     489.2,          27.7,         244,2021,7,ALL
+Tisbury - Tisbury Elementary,02960005,ELA,          21,62,           5,15,          16,47,           9,26,           4,12,          34,95,     505.1,          42.3,          29,2021,7,ALL
+Tisbury - Tisbury Elementary,02960005,MATH,          17,50,           2,6,          15,44,          16,47,           1,3,          34,95,     501.4,          45.0,          29,2021,7,ALL
+Triton - Triton Regional Middle School,07730405,ELA,          75,45,           6,4,          69,42,          70,42,          21,13,         166,99,     496.2,          33.5,         158,2021,7,ALL
+Triton - Triton Regional Middle School,07730405,MATH,          71,43,           7,4,          64,39,          77,46,          18,11,         166,99,     496.1,          41.5,         159,2021,7,ALL
+Tyngsborough - Tyngsborough Middle,03010305,ELA,          51,35,           3,2,          48,33,          75,52,          19,13,         145,99,     493.1,          29.5,         140,2021,7,ALL
+Tyngsborough - Tyngsborough Middle,03010305,MATH,          49,34,           7,5,          42,29,          80,55,          16,11,         145,99,     494.1,          38.7,         140,2021,7,ALL
+UP Academy Charter School of Boston (District) - UP Academy Charter School of Boston,04800405,ELA,          16,14,           0,0,          16,14,          55,47,          46,39,         117,95,     478.1,          28.6,         104,2021,7,ALL
+UP Academy Charter School of Boston (District) - UP Academy Charter School of Boston,04800405,MATH,          13,11,           0,0,          13,11,          50,43,          52,45,         115,93,     476.7,          29.4,          98,2021,7,ALL
+UP Academy Charter School of Dorchester (District) - UP Academy Charter School of Dorchester,35050405,ELA,           9,13,           0,0,           9,13,          30,45,          28,42,          67,100,     476.2,          22.7,          65,2021,7,ALL
+UP Academy Charter School of Dorchester (District) - UP Academy Charter School of Dorchester,35050405,MATH,           5,8,           0,0,           5,8,          42,66,          17,27,          64,96,     478.3,          34.3,          62,2021,7,ALL
+Up-Island Regional - West Tisbury Elementary,07740020,ELA,          28,61,           6,13,          22,48,          14,30,           4,9,          46,96,     503.7,          44.6,          44,2021,7,ALL
+Up-Island Regional - West Tisbury Elementary,07740020,MATH,          20,43,           3,6,          17,36,          22,47,           5,11,          47,98,     496.4,          46.8,          45,2021,7,ALL
+Uxbridge - Whitin Intermediate,03040405,ELA,          62,55,           2,2,          60,53,          42,37,           9,8,         113,97,     498.7,          45.6,         106,2021,7,ALL
+Uxbridge - Whitin Intermediate,03040405,MATH,          43,38,           5,4,          38,34,          57,51,          12,11,         112,97,     495.3,          40.5,         104,2021,7,ALL
+Veritas Preparatory Charter School (District) - Veritas Preparatory Charter School,04980405,ELA,          41,36,           7,6,          34,30,          46,41,          26,23,         113,98,     492.0,          34.4,         101,2021,7,ALL
+Veritas Preparatory Charter School (District) - Veritas Preparatory Charter School,04980405,MATH,          29,26,           3,3,          26,23,          63,56,          20,18,         112,97,     488.5,          34.7,         100,2021,7,ALL
+Wachusett - Central Tree Middle,07750310,ELA,          63,59,          10,9,          53,50,          37,35,           7,7,         107,98,     503.5,          49.8,         102,2021,7,ALL
+Wachusett - Central Tree Middle,07750310,MATH,          50,47,           5,5,          45,42,          47,44,           9,8,         106,97,     498.2,          34.0,         102,2021,7,ALL
+Wachusett - Chocksett Middle School,07750315,ELA,          23,31,           1,1,          22,30,          42,57,           9,12,          74,93,     491.4,          28.6,          72,2021,7,ALL
+Wachusett - Chocksett Middle School,07750315,MATH,          37,50,           5,7,          32,43,          27,36,          10,14,          74,93,     499.9,          40.5,          72,2021,7,ALL
+Wachusett - Mountview Middle,07750305,ELA,         101,47,          13,6,          88,41,          91,42,          23,11,         215,91,     498.1,          31.2,         207,2021,7,ALL
+Wachusett - Mountview Middle,07750305,MATH,          99,46,          15,7,          84,39,          97,46,          17,8,         213,90,     498.4,          35.1,         206,2021,7,ALL
+Wachusett - Paxton Center,07750040,ELA,          29,43,           2,3,          27,40,          28,42,          10,15,          67,100,     494.7,          34.3,          64,2021,7,ALL
+Wachusett - Paxton Center,07750040,MATH,          17,26,           0,0,          17,26,          41,62,           8,12,          66,99,     488.3,          21.4,          63,2021,7,ALL
+Wachusett - Thomas Prince,07750045,ELA,          26,62,           2,5,          24,57,          14,33,           2,5,          42,100,     503.4,          41.9,          40,2021,7,ALL
+Wachusett - Thomas Prince,07750045,MATH,          23,55,           1,2,          22,52,          17,40,           2,5,          42,100,     499.5,          42.4,          40,2021,7,ALL
+Wakefield - Galvin Middle School,03050310,ELA,         121,49,          14,6,         107,43,          88,36,          38,15,         247,95,     496.9,          36.0,         240,2021,7,ALL
+Wakefield - Galvin Middle School,03050310,MATH,          90,36,           8,3,          82,33,         138,55,          21,8,         249,95,     494.8,          32.9,         241,2021,7,ALL
+Walpole - Bird Middle,03070305,ELA,          72,51,           3,2,          69,49,          47,33,          23,16,         142,100,     496.4,          27.4,         134,2021,7,ALL
+Walpole - Bird Middle,03070305,MATH,          57,40,           6,4,          51,36,          73,51,          12,8,         142,100,     496.9,          33.1,         134,2021,7,ALL
+Walpole - Eleanor N Johnson Middle,03070310,ELA,          83,63,           7,5,          76,58,          35,27,          14,11,         132,99,     502.1,          30.1,         131,2021,7,ALL
+Walpole - Eleanor N Johnson Middle,03070310,MATH,          77,58,          16,12,          61,46,          46,35,           9,7,         132,99,     504.5,          32.8,         131,2021,7,ALL
+Waltham - John F Kennedy Middle,03080404,ELA,          83,47,          15,8,          68,38,          64,36,          30,17,         177,98,     497.2,          47.8,         162,2021,7,ALL
+Waltham - John F Kennedy Middle,03080404,MATH,          77,44,          12,7,          65,37,          72,41,          26,15,         175,97,     495.7,          45.5,         160,2021,7,ALL
+Waltham - John W. McDevitt Middle School,03080415,ELA,          71,34,          17,8,          54,26,          72,35,          64,31,         207,97,     488.7,          36.8,         183,2021,7,ALL
+Waltham - John W. McDevitt Middle School,03080415,MATH,          55,27,           3,1,          52,25,          97,47,          54,26,         206,97,     485.6,          36.7,         182,2021,7,ALL
+Ware - Ware Junior/Senior High School,03090505,ELA,          24,26,           0,0,          24,26,          43,47,          24,26,          91,95,     485.8,          34.8,          89,2021,7,ALL
+Ware - Ware Junior/Senior High School,03090505,MATH,          17,19,           0,0,          17,19,          49,54,          25,27,          91,95,     482.5,          31.5,          87,2021,7,ALL
+Wareham - Wareham Middle,03100305,ELA,          54,31,           2,1,          52,29,          70,40,          53,30,         177,99,     486.7,          30.4,         168,2021,7,ALL
+Wareham - Wareham Middle,03100305,MATH,          28,16,           2,1,          26,15,         104,59,          44,25,         176,98,     482.5,          27.1,         167,2021,7,ALL
+Watertown - Watertown Middle,03140305,ELA,          68,39,           9,5,          59,34,          73,42,          33,19,         174,98,     492.4,          35.4,         157,2021,7,ALL
+Watertown - Watertown Middle,03140305,MATH,          55,32,           8,5,          47,27,          90,52,          29,17,         174,98,     490.1,          33.1,         157,2021,7,ALL
+Wayland - Wayland Middle School,03150305,ELA,         136,74,          24,13,         112,61,          37,20,          11,6,         184,92,     510.1,          47.5,         174,2021,7,ALL
+Wayland - Wayland Middle School,03150305,MATH,         117,64,          35,19,          82,45,          57,31,           9,5,         183,91,     508.7,          38.8,         173,2021,7,ALL
+Webster - Webster Middle School,03160315,ELA,          26,23,           3,3,          23,20,          51,45,          36,32,         113,91,     482.4,          32.6,         100,2021,7,ALL
+Webster - Webster Middle School,03160315,MATH,          10,10,           5,5,           5,5,          53,51,          40,39,         103,83,     477.1,          33.5,          91,2021,7,ALL
+Wellesley - Wellesley Middle,03170305,ELA,         259,71,          56,15,         203,56,          85,23,          21,6,         365,97,     511.2,          41.7,         336,2021,7,ALL
+Wellesley - Wellesley Middle,03170305,MATH,         230,63,          63,17,         167,46,         112,31,          22,6,         364,97,     508.0,          39.9,         334,2021,7,ALL
+West Boylston - West Boylston Junior/Senior High,03220505,ELA,          47,63,          11,15,          36,48,          19,25,           9,12,          75,97,     505.8,          40.3,          68,2021,7,ALL
+West Boylston - West Boylston Junior/Senior High,03220505,MATH,          45,60,          11,15,          34,45,          26,35,           4,5,          75,97,     506.8,          37.5,          68,2021,7,ALL
+West Bridgewater - West Bridgewater Junior/Senior,03230505,ELA,          55,52,           8,8,          47,45,          40,38,          10,10,         105,93,     500.1,          42.8,         105,2021,7,ALL
+West Bridgewater - West Bridgewater Junior/Senior,03230505,MATH,          18,17,           0,0,          18,17,          69,65,          19,18,         106,94,     484.0,          21.8,         106,2021,7,ALL
+West Springfield - West Springfield Middle,03320305,ELA,         114,40,          15,5,          99,34,         130,45,          43,15,         287,98,     494.3,          34.4,         263,2021,7,ALL
+West Springfield - West Springfield Middle,03320305,MATH,          95,33,          10,4,          85,30,         155,54,          35,12,         285,97,     492.3,          27.5,         262,2021,7,ALL
+Westborough - Sarah W Gibbons Middle,03210305,ELA,         207,76,          66,24,         141,52,          47,17,          19,7,         273,98,     513.9,          57.1,         248,2021,7,ALL
+Westborough - Sarah W Gibbons Middle,03210305,MATH,         188,70,          66,24,         122,45,          62,23,          20,7,         270,97,     512.2,          53.3,         247,2021,7,ALL
+Westfield - Westfield Middle School,03250310,ELA,         122,38,           9,3,         113,36,         118,37,          77,24,         317,85,     489.7,          32.0,         304,2021,7,ALL
+Westfield - Westfield Middle School,03250310,MATH,          90,28,           7,2,          83,26,         161,51,          65,21,         316,84,     487.5,          28.7,         304,2021,7,ALL
+Westford - Blanchard Middle,03260310,ELA,         123,76,          38,23,          85,52,          30,19,           9,6,         162,98,     514.1,          51.1,         154,2021,7,ALL
+Westford - Blanchard Middle,03260310,MATH,         108,67,          34,21,          74,46,          47,29,           6,4,         161,97,     511.6,          40.3,         153,2021,7,ALL
+Westford - Stony Brook School,03260330,ELA,         144,74,          23,12,         121,62,          40,21,          10,5,         194,98,     509.9,          47.1,         182,2021,7,ALL
+Westford - Stony Brook School,03260330,MATH,         135,69,          40,21,          95,49,          55,28,           5,3,         195,99,     512.0,          38.6,         183,2021,7,ALL
+Weston - Weston Middle,03300305,ELA,         116,84,          38,28,          78,57,          19,14,           3,2,         138,95,     518.2,          51.1,         124,2021,7,ALL
+Weston - Weston Middle,03300305,MATH,         107,78,          35,26,          72,53,          25,18,           5,4,         137,94,     517.7,          49.3,         123,2021,7,ALL
+Westport - Westport Middle-High School,03310515,ELA,          31,31,           2,2,          29,29,          51,52,          17,17,          99,93,     490.8,          31.5,          96,2021,7,ALL
+Westport - Westport Middle-High School,03310515,MATH,          34,34,           0,0,          34,34,          57,57,           9,9,         100,94,     492.2,          33.7,          97,2021,7,ALL
+Westwood - E W Thurston Middle,03350305,ELA,         147,70,          41,20,         106,51,          46,22,          16,8,         209,100,     510.9,          35.0,         202,2021,7,ALL
+Westwood - E W Thurston Middle,03350305,MATH,         137,66,          45,22,          92,44,          57,27,          15,7,         209,100,     509.5,          40.4,         202,2021,7,ALL
+Weymouth - Abigail Adams Middle School,03360310,ELA,         167,38,          13,3,         154,35,         187,43,          81,19,         435,99,     491.6,          29.8,         408,2021,7,ALL
+Weymouth - Abigail Adams Middle School,03360310,MATH,         137,32,          16,4,         121,28,         220,51,          77,18,         434,99,     490.1,          33.5,         407,2021,7,ALL
+Whitman-Hanson - Hanson Middle School,07800315,ELA,          49,45,          11,10,          38,35,          47,43,          14,13,         110,97,     497.7,          38.3,         103,2021,7,ALL
+Whitman-Hanson - Hanson Middle School,07800315,MATH,          21,19,           0,0,          21,19,          70,64,          18,17,         109,96,     488.4,          34.7,         102,2021,7,ALL
+Whitman-Hanson - Whitman Middle,07800310,ELA,          84,47,           8,4,          76,43,          70,39,          24,13,         178,94,     496.5,          35.6,         172,2021,7,ALL
+Whitman-Hanson - Whitman Middle,07800310,MATH,          50,28,           2,1,          48,27,         109,60,          22,12,         181,95,     490.0,          32.6,         176,2021,7,ALL
+Wilmington - Wilmington Middle School,03420330,ELA,         122,51,           7,3,         115,48,          86,36,          30,13,         238,90,     496.9,          36.3,         233,2021,7,ALL
+Wilmington - Wilmington Middle School,03420330,MATH,         119,50,          20,8,          99,42,         102,43,          17,7,         238,90,     501.2,          30.9,         234,2021,7,ALL
+Winchendon - Murdock Middle School,03430315,ELA,          19,23,           0,0,          19,23,          50,62,          12,15,          81,99,     488.4,          43.8,          77,2021,7,ALL
+Winchendon - Murdock Middle School,03430315,MATH,          13,16,           1,1,          12,15,          47,58,          21,26,          81,99,     483.3,          43.8,          76,2021,7,ALL
+Winchester - McCall Middle,03440305,ELA,         230,67,          32,9,         198,58,          92,27,          19,6,         341,90,     507.4,          35.3,         317,2021,7,ALL
+Winchester - McCall Middle,03440305,MATH,         224,67,          67,20,         157,47,          99,29,          13,4,         336,89,     510.4,          34.0,         312,2021,7,ALL
+Winthrop - Winthrop Middle School,03460305,ELA,          68,44,           9,6,          59,38,          58,38,          28,18,         154,99,     494.5,          29.7,         144,2021,7,ALL
+Winthrop - Winthrop Middle School,03460305,MATH,          50,33,           5,3,          45,30,          79,52,          23,15,         152,97,     492.1,          30.3,         143,2021,7,ALL
+Woburn - Daniel L Joyce Middle School,03470410,ELA,          73,43,          13,8,          60,35,          65,38,          32,19,         170,98,     494.8,          40.9,         155,2021,7,ALL
+Woburn - Daniel L Joyce Middle School,03470410,MATH,          56,33,           9,5,          47,28,          83,49,          31,18,         170,98,     490.8,          35.8,         155,2021,7,ALL
+Woburn - John F Kennedy Middle School,03470405,ELA,          70,51,           2,1,          68,50,          44,32,          22,16,         136,98,     496.3,          35.8,         127,2021,7,ALL
+Woburn - John F Kennedy Middle School,03470405,MATH,          58,43,           8,6,          50,37,          60,44,          18,13,         136,98,     496.3,          30.8,         128,2021,7,ALL
+Worcester - Burncoat Middle School,03480405,ELA,          92,30,          17,5,          75,24,         137,44,          82,26,         311,96,     488.8,          32.2,         290,2021,7,ALL
+Worcester - Burncoat Middle School,03480405,MATH,          79,25,          10,3,          69,22,         157,51,          74,24,         310,96,     485.3,          33.6,         292,2021,7,ALL
+Worcester - Claremont Academy,03480350,ELA,           9,13,           2,3,           7,10,          26,38,          34,49,          69,74,     475.5,          35.4,          64,2021,7,ALL
+Worcester - Claremont Academy,03480350,MATH,           5,7,           1,1,           4,6,          29,43,          34,50,          68,73,     471.4,          30.2,          63,2021,7,ALL
+Worcester - Forest Grove Middle,03480415,ELA,         108,29,          10,3,          98,27,         155,42,         105,29,         368,84,     487.6,          29.0,         317,2021,7,ALL
+Worcester - Forest Grove Middle,03480415,MATH,          82,22,           4,1,          78,21,         193,52,          95,26,         370,84,     485.1,          29.0,         321,2021,7,ALL
+Worcester - Sullivan Middle,03480423,ELA,          97,27,          15,4,          82,23,         110,31,         149,42,         356,83,     482.2,          27.2,         314,2021,7,ALL
+Worcester - Sullivan Middle,03480423,MATH,          56,16,           6,2,          50,14,         166,47,         133,37,         355,83,     478.5,          26.8,         313,2021,7,ALL
+Worcester - University Pk Campus School,03480285,ELA,           3,9,           0,0,           3,9,          17,53,          12,38,          32,86,     477.1,          30.2,          31,2021,7,ALL
+Worcester - University Pk Campus School,03480285,MATH,           6,17,           0,0,           6,17,          18,51,          11,31,          35,95,     479.7,          38.2,          34,2021,7,ALL
+Worcester - Worcester East Middle,03480420,ELA,          39,13,           1,0,          38,13,         135,46,         121,41,         295,83,     476.3,          23.3,         262,2021,7,ALL
+Worcester - Worcester East Middle,03480420,MATH,          24,9,           1,0,          23,8,         160,57,          96,34,         280,78,     475.8,          28.6,         247,2021,7,ALL
+State,00000000,ELA,"      28,998",43,"       4,076",6,"      24,922",37,"      24,993",37,"      13,613",20,"      67,604",94,     494.2,          36.1,"      62,122",2021,7,ALL
+State,00000000,MATH,"      23,443",35,"       4,171",6,"      19,272",29,"      31,696",47,"      12,391",18,"      67,530",94,     492.1,          35.8,"      62,071",2021,7,ALL
