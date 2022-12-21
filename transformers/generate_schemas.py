@@ -90,9 +90,12 @@ if __name__ == "__main__":
 
     bq_commands = []
     bq_remove_commands = []
+    dbt_sources = []
 
     for filename in os.listdir("data/sources"):
         if filename.endswith(".csv"):
+            filename_no_ext = filename.replace(".csv", "").replace(" ", "_")
+
             source_file = os.path.join("data/sources", filename)
 
             schema_file = os.path.join(
@@ -100,8 +103,7 @@ if __name__ == "__main__":
             )
 
             table_definition_file = os.path.join(
-                "data/table_definition_files",
-                filename.replace(".csv", "").replace(" ", "_"),
+                "data/table_definition_files", filename_no_ext
             )
 
             gcloud_storage_uri = (
@@ -115,11 +117,14 @@ if __name__ == "__main__":
                 table_definition_file=table_definition_file,
             )
 
-            bq_command = f"bq mk --table --force=true --description 'Raw version of {filename}' --external_table_definition=./{table_definition_file} {os.environ['BIGQUERY_DATASET']}.{filename.replace('.csv', '').replace(' ', '_')}"
+            bq_command = f"bq mk --table --force=true --description 'Raw version of {filename}' --external_table_definition=./{table_definition_file} {os.environ['BIGQUERY_DATASET']}.{filename_no_ext}"
             bq_remove = f"bq rm -f -t {os.environ['BIGQUERY_DATASET']}.{filename.replace('.csv', '').replace(' ', '_')}"
 
             bq_commands.append(bq_command)
             bq_remove_commands.append(bq_remove)
+
+            dbt_source = f"      - name: {filename_no_ext}\n"
+            dbt_sources.append(dbt_source)
 
     # Write the bq commands to a file
     # Note that BigQuery recommends removing BOM from CSV files
@@ -135,3 +140,12 @@ if __name__ == "__main__":
         f.write("#!/bin/bash" + "\n")
         for command in bq_remove_commands:
             f.write(command + "\n")
+
+    # Write a file with the dbt sources
+    with open("transformers/dbt_sources.yml", "w") as f:
+        f.write("version: 2" + "\n\n")
+        f.write("sources:" + "\n")
+        f.write(f"  - name: {os.environ['BIGQUERY_DATASET']}\n")
+        f.write("    tables:" + "\n")
+        for source in dbt_sources:
+            f.write(source)
