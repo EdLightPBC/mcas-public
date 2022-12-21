@@ -35,30 +35,36 @@ def generate_schema_and_table_definition(
 
     table_definition = table_definition_base.copy()
 
-    with open(source_file, "r") as f:
+    encoding = "utf-8"
+    delimiter = ","
+
+    # Open the file initially to discover if it is non-standard
+    with open(os.path.join("data/sources", source_file), "r") as f:
         reader = csv.reader(f)
         fieldnames = reader.__next__()
 
     # CHeck for BOM
     try:
         if fieldnames[0].startswith(codecs.BOM_UTF8):
-            # CSV file has a BOM, remove it
-            fieldnames = fieldnames[3:].splitlines()
+            # CSV file has a BOM
+            encoding = "utf-8-sig"
     except TypeError:
         # CSV file has a BOM and was read as bytes, reload with utf-8-sig encoding
-        with open(source_file, "r", encoding="utf-8-sig") as f:
+        encoding = "utf-8-sig"
+        with open(
+            os.path.join("data/sources", source_file), "r", encoding=encoding
+        ) as f:
             reader = csv.reader(f)
             fieldnames = reader.__next__()
 
     # Some files are semi-colon delimited (UGH)
     if len(fieldnames) == 1:
+        # CSV file is semi-colon delimited
+        delimiter = ";"
         fieldnames = fieldnames[0].split(";")
 
-        table_definition["csvOptions"]["fieldDelimiter"] = ";"
-    else:
-        table_definition["csvOptions"]["fieldDelimiter"] = ","
-
     schema = []
+    fieldnames_clean = []
     for fieldname in fieldnames:
         row = {}
         fieldname = (
@@ -75,6 +81,25 @@ def generate_schema_and_table_definition(
         row["type"] = "string"
         row["mode"] = "nullable"
         schema.append(row)
+        fieldnames_clean.append(fieldname)
+
+    # re-open the file with the correct encoding and separator and use clean fieldnames
+    with open(os.path.join("data/sources", source_file), "r", encoding=encoding) as f:
+        reader = csv.reader(f, delimiter=delimiter)
+
+        # skip the old fieldnames
+        reader.__next__()
+
+        with open(
+            os.path.join("data/sources_standardized", source_file.replace(" ", "_")),
+            "w",
+            encoding="utf-8",
+        ) as f_out:
+            writer = csv.writer(f_out, delimiter=",")
+            writer.writerow(fieldnames_clean)
+
+            for row in reader:
+                writer.writerow(row)
 
     with open(schema_file, "w") as f:
         json.dump(schema, f, indent=4)
@@ -96,8 +121,6 @@ if __name__ == "__main__":
         if filename.endswith(".csv"):
             filename_no_ext = filename.replace(".csv", "").replace(" ", "_")
 
-            source_file = os.path.join("data/sources", filename)
-
             schema_file = os.path.join(
                 "data/schemas", filename.replace(".csv", ".json").replace(" ", "_")
             )
@@ -106,12 +129,10 @@ if __name__ == "__main__":
                 "data/table_definition_files", filename_no_ext
             )
 
-            gcloud_storage_uri = (
-                f"{os.environ['GCLOUD_STORAGE_BUCKET_FOLDER_URI']}/{filename}"
-            )
+            gcloud_storage_uri = f"{os.environ['GCLOUD_STORAGE_BUCKET_FOLDER_URI']}/{filename.replace(' ', '_')}"
 
             schema = generate_schema_and_table_definition(
-                source_file=source_file,
+                source_file=filename,
                 gcloud_storage_uri=gcloud_storage_uri,
                 schema_file=schema_file,
                 table_definition_file=table_definition_file,
