@@ -1,0 +1,102 @@
+[
+    {
+        "name": "school_name",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "school_code",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "subject",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "me_num",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "me_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "e_num",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "e_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "m_num",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "m_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "pm_num",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "pm_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "nm_num",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "nm_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "num_of_students_included",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "part_rate_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "avg_scaled_score",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "sgp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "included_in_sgp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "ach_pctl",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "year",
+        "type": "string",
+        "mode": "nullable"
+    }
+]
