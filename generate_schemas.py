@@ -165,5 +165,5 @@ if __name__ == "__main__":
         f.write("sources:" + "\n")
         f.write(f"  - name: {os.environ['BIGQUERY_DATASET']}\n")
         f.write("    tables:" + "\n")
-        for source in dbt_sources:
+        for source in sorted(dbt_sources):
             f.write(source)
