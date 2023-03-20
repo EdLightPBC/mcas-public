@@ -1,0 +1,1342 @@
+[
+    {
+        "name": "adminyear",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "sprp_dis",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "sprp_sch",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "sprp_dis_name",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "sprp_sch_name",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "sprp_orgtype",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "schtype",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "testschoolcode",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "testschoolname",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sasid",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "grade",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "gradesims",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "lastname",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "firstname",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mi",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "dob",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "gender",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "race",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "yrsinmass",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "yrsinmass_num",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "yrsinsch",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "yrsindis",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "highneeds",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ecodis",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "title1",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ever_EL",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "EL",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "EL_FormerEL",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "FormerEL",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ELfirstyear",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "IEP",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "plan504",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "firstlanguage",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "natureofdis",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "levelofneed",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "spedplacement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "town",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "county",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "octenr",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "conenr_sch",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "conenr_dis",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "conenr_sta",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "access_part",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ealt",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ecomplexity",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "emode",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eteststat",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "wptopdev",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "wpcompconv",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem1",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem3",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem4",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem5",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem6",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem7",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem8",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem9",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem10",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem11",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem12",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem13",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem14",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem15",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem16",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem17",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem18",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem19",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem20",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem21",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem22",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem23",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem24",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem25",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem26",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem27",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem28",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem29",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem30",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem31",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem32",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem33",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem34",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem35",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem36",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem37",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem38",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem39",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eitem40",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "erawsc",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "emcpts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eorpts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eperpospts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "escaleds",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eperflev",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eperf2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "enumin",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eassess",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "esgp",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "idea1",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "conv1",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "idea2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "conv2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "idea3",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "conv3",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eattempt",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "malt",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mcomplexity",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mmode",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mteststat",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem1",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem3",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem4",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem5",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem6",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem7",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem8",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem9",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem10",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem11",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem12",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem13",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem14",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem15",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem16",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem17",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem18",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem19",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem20",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem21",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem22",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem23",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem24",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem25",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem26",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem27",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem28",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem29",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem30",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem31",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem32",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem33",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem34",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem35",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem36",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem37",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem38",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem39",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem40",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem41",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mitem42",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mrawsc",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mmcpts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "morpts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mperpospts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mscaleds",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mperflev",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mperf2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mnumin",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "massess",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "msgp",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mattempt",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "salt",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "scomplexity",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "smode",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "steststat",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ssubject",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem1",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem3",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem4",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem5",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem6",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem7",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem8",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem9",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem10",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem11",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem12",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem13",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem14",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem15",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem16",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem17",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem18",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem19",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem20",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem21",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem22",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem23",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem24",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem25",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem26",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem27",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem28",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem29",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem30",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem31",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem32",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem33",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem34",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem35",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem36",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem37",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem38",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem39",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem40",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem41",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem42",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem43",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem44",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sitem45",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "srawsc",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "smcpts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sorpts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sperpospts",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sscaleds",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sperflev",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sperf2",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "snumin",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sassess",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sattempt",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ela_cd",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "math_cd",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sci_cd",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "accom_e",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "accom_m",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "accom_s",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "accom_readaloud",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "accom_scribe",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "accom_calculator",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "grade2017",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "grade2018",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "grade2019",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "escaleds2017",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "escaleds2018",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "escaleds2019",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mscaleds2017",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mscaleds2018",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mscaleds2019",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "esgp2017",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "esgp2018",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "esgp2019",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "msgp2017",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "msgp2018",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "msgp2019",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "summarize",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "amend",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "datachanged",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mcasrowid",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "uniqueID",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eScaleForm",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mScaleForm",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sScaleForm",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eformtype",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mformtype",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sformtype",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "CVTE",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "days_remote",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "days_in_person",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "member",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "eremote",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mremote",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sremote",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "esession",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "msession",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "ssession",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    }
+]
