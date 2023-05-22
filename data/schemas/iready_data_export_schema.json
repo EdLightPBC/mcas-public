@@ -1,0 +1,242 @@
+[
+    {
+        "name": "first_name",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "student_id",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "student_grade",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "academic_year",
+        "mode": "REQUIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "school",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "enrolled",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "user_name",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "sex",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "hispanic_or_latino",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "race",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "english_language_learner",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "special_education",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "economically_disadvantaged",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "migrant",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "classes",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "class_teachers",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "report_groups",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "start_date",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "completion_date",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "is_baseline_diagnostic",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "is_most_recent_diagnostic",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "duration_min",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "rush_flag",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "overall_scale_score",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "overall_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "overall_relative_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "percentile",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "grouping",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "quantile_measure",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "quantile_range",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "number_and_operations_scale_score",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "number_and_operations_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "number_and_operations_relative_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "algebra_and_algebraic_thinking_scale_score",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "algebra_and_algebraic_thinking_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "algebra_and_algebraic_thinking_relative_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "measurement_and_data_scale_score",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "measurement_and_data_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "measurement_and_data_relative_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "geometry_scale_score",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "geometry_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "geometry_relative_placement",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "diagnostic_gain",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "annual_typical_growth_measure",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "annual_stretch_growth_measure",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "percent_progress_to_annual_typical_growth",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "percent_progress_to_annual_stretch_growth",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "mid_on_grade_level_scale_score",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    }
+]
