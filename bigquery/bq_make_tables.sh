@@ -1,0 +1,3 @@
+#!/bin/bash
+bq mk --table --force=true --description 'Raw version of MCAS_Spring_2023_EarlyReleaseV1_04460000_ela_20230520.csv' --external_table_definition=./data/table_definition_files/MCAS_Spring_2023_EarlyReleaseV1_04460000_ela_20230520 raw_mcas_pearson_access_next.MCAS_Spring_2023_EarlyReleaseV1_04460000_ela_20230520
+bq mk --table --force=true --description 'Raw version of MCAS_Spring_2023_EarlyReleaseV1_04460550_ela_20230410.csv' --external_table_definition=./data/table_definition_files/MCAS_Spring_2023_EarlyReleaseV1_04460550_ela_20230410 raw_mcas_pearson_access_next.MCAS_Spring_2023_EarlyReleaseV1_04460550_ela_20230410

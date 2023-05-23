@@ -1,0 +1,522 @@
+[
+    {
+        "name": "district_name",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "district_code",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "test_school_name",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "test_school_code",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "grade",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "sasid",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "last_name",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "first_name",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "mi",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "dob",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "gender",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "human_read_aloud_special_access",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "text_to_speech",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "human_scribe_special_access",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "speech_to_text_special_access",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "calculation_device",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "word_prediction",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "screen_reader",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "at_non_screen_reader",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "filler",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "filler_0",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "subject",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "test_code",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "test_format",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "void",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "void_reason",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "not_tested_code",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "not_tested_reason",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "raw_score",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "total_points_possible",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "raw_score_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat1",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat2",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat3",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat4",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat5",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat1_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat2_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat3_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat4_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat5_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat1_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat2_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat3_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat4_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "rep_cat5_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "prac_cat1",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "prac_cat2",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "prac_cat3",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "prac_cat1_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "prac_cat2_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "prac_cat3_pp",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "practice_raw_score",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "practice_total_points_possible",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "practice_raw_score_percent",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item1",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item2",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item3",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item4",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item5",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item6",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item7",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item8",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item9",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item10",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item11",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item12",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item13",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item14",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item15",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item16",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item17",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item18",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item19",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item20",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item21",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item22",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item23",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item24",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item25",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item26",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item27",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item28",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item29",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item30",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item31",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item32",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item33",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item34",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item35",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item36",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item37",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item38",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item39",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item40",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item41",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "item42",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "form_code",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "identifier_field_student",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "identifier_field_test",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "identifier_field_sess1",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "identifier_field_sess2",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "filler_1",
+        "type": "string",
+        "mode": "nullable"
+    },
+    {
+        "name": "file_date",
+        "type": "string",
+        "mode": "nullable"
+    }
+]

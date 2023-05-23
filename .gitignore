@@ -20,3 +20,6 @@ venv.bak/
 
 # Mac files
 .DS_Store
+
+# VS Code
+.vscode/

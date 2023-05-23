@@ -1,0 +1,1 @@
+from .generate_schemas import generate_schema_and_table_definition
